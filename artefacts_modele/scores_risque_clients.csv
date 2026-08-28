@@ -1,0 +1,2028 @@
+﻿CustomerID,Province,Risk_Score,Nb_releves,Fraudes,Priorité
+C000105,Khémisset,100.0,38,29,Critique
+C000285,Salé,99.21,39,28,Critique
+C000229,Salé,98.95,33,26,Critique
+C000067,Salé,98.53,33,26,Critique
+C000350,Skhirate-Témara,98.29,20,12,Critique
+C000950,Skhirate-Témara,97.83,35,31,Critique
+C000219,Kénitra,96.54,28,17,Critique
+C001938,Rabat,95.92,36,19,Critique
+C001620,Skhirate-Témara,95.88,24,15,Critique
+C001791,Rabat,95.49,34,13,Critique
+C001934,Salé,95.33,14,8,Critique
+C000920,Khémisset,95.19,38,22,Critique
+C001097,Rabat,95.17,25,9,Critique
+C000013,Rabat,94.75,18,14,Critique
+C001415,Kénitra,94.22,37,10,Critique
+C001045,Skhirate-Témara,94.14,37,14,Critique
+C000544,Salé,93.89,37,22,Critique
+C001722,Rabat,93.49,36,19,Critique
+C000424,Rabat,93.3,26,19,Critique
+C001916,Rabat,93.25,39,17,Critique
+C001615,Rabat,92.76,19,11,Critique
+C000446,Salé,92.4,25,18,Critique
+C000761,Kénitra,92.14,32,7,Critique
+C000526,Salé,92.05,15,9,Critique
+C001062,Kénitra,91.07,27,7,Critique
+C001100,Khémisset,90.93,37,17,Critique
+C000543,Rabat,90.75,26,11,Critique
+C000646,Kénitra,89.94,31,16,Critique
+C001111,Kénitra,89.88,25,1,Critique
+C000406,Rabat,89.7,29,1,Critique
+C002007,Kénitra,89.6,39,1,Critique
+C001296,Kénitra,89.51,38,17,Critique
+C001487,Kénitra,89.48,34,0,Critique
+C000299,Kénitra,89.21,35,1,Critique
+C000071,Skhirate-Témara,88.81,35,0,Critique
+C000177,Kénitra,88.58,37,1,Critique
+C000422,Rabat,88.52,21,1,Critique
+C001868,Rabat,88.51,25,11,Critique
+C000144,Khémisset,88.45,13,6,Critique
+C001207,Sidi Kacem,88.4,29,10,Critique
+C000061,Rabat,88.22,27,1,Critique
+C001497,Khémisset,88.18,27,9,Critique
+C000388,Kénitra,87.43,25,13,Critique
+C001919,Rabat,86.8,37,1,Critique
+C000576,Khémisset,86.74,22,8,Critique
+C000060,Kénitra,86.73,31,16,Critique
+C001163,Salé,86.59,31,14,Critique
+C001725,Khémisset,86.11,17,1,Critique
+C001990,Rabat,86.09,28,1,Critique
+C000613,Skhirate-Témara,85.55,20,1,Critique
+C000959,Rabat,85.34,24,1,Critique
+C002010,Skhirate-Témara,85.31,22,1,Critique
+C000391,Kénitra,85.28,10,2,Critique
+C000313,Kénitra,85.23,28,12,Critique
+C001450,Sidi Kacem,84.94,39,1,Critique
+C001644,Kénitra,84.71,39,1,Critique
+C002015,Kénitra,84.46,37,32,Critique
+C000417,Salé,84.44,30,2,Critique
+C000551,Kénitra,84.4,18,2,Critique
+C000659,Rabat,84.32,34,0,Critique
+C000053,Rabat,84.29,28,0,Critique
+C000953,Salé,84.26,27,2,Critique
+C000314,Skhirate-Témara,84.26,28,1,Critique
+C000990,Khémisset,84.2,14,5,Critique
+C001312,Skhirate-Témara,84.18,38,1,Critique
+C001287,Rabat,84.11,28,4,Critique
+C000122,Rabat,84.06,31,1,Critique
+C000547,Rabat,84.03,12,1,Critique
+C001898,Sidi Kacem,83.95,11,1,Critique
+C001506,Skhirate-Témara,83.92,18,2,Critique
+C001441,Rabat,83.8,14,1,Critique
+C001683,Salé,83.73,33,0,Critique
+C000378,Skhirate-Témara,83.7,13,1,Critique
+C001834,Kénitra,83.7,13,1,Critique
+C000934,Salé,83.62,10,1,Critique
+C000824,Kénitra,83.54,23,1,Critique
+C001850,Skhirate-Témara,83.5,30,1,Critique
+C000327,Rabat,83.45,21,0,Critique
+C001184,Skhirate-Témara,83.36,16,1,Critique
+C001131,Rabat,83.32,21,10,Critique
+C001280,Salé,83.3,16,1,Critique
+C001842,Kénitra,83.27,36,1,Critique
+C000769,Sidi Slimane,83.22,18,1,Critique
+C000938,Kénitra,83.22,35,1,Critique
+C001789,Rabat,83.14,39,1,Critique
+C001154,Rabat,83.05,10,1,Critique
+C001041,Rabat,82.93,23,1,Critique
+C001559,Salé,82.92,39,2,Critique
+C001946,Rabat,82.91,38,1,Critique
+C000217,Sidi Kacem,82.9,21,1,Critique
+C001222,Salé,82.89,15,1,Critique
+C000478,Salé,82.81,30,5,Critique
+C000706,Kénitra,82.78,13,1,Critique
+C001416,Rabat,82.71,13,1,Critique
+C001249,Rabat,82.69,23,2,Critique
+C000474,Rabat,82.67,33,1,Critique
+C001845,Rabat,82.67,38,1,Critique
+C001310,Rabat,82.65,31,5,Critique
+C001177,Khémisset,82.52,13,1,Critique
+C000476,Rabat,82.52,13,1,Critique
+C001406,Kénitra,82.5,25,2,Critique
+C001840,Rabat,82.5,39,1,Critique
+C001564,Sidi Kacem,82.46,36,1,Critique
+C001662,Salé,82.43,37,1,Critique
+C000317,Kénitra,82.35,20,5,Critique
+C002014,Salé,82.34,31,2,Critique
+C002002,Sidi Kacem,82.29,15,1,Critique
+C001883,Rabat,82.25,24,1,Critique
+C001648,Salé,82.23,14,1,Critique
+C001259,Kénitra,82.23,27,1,Critique
+C000355,Kénitra,82.21,31,2,Critique
+C001245,Salé,82.21,23,1,Critique
+C001365,Rabat,82.19,19,1,Critique
+C000565,Skhirate-Témara,82.18,30,1,Critique
+C000740,Rabat,82.15,26,1,Critique
+C001555,Skhirate-Témara,82.11,28,1,Critique
+C001388,Kénitra,82.11,19,1,Critique
+C001768,Kénitra,82.1,33,1,Critique
+C001743,Skhirate-Témara,82.09,37,1,Critique
+C001805,Rabat,82.09,27,1,Critique
+C000066,Kénitra,82.06,38,1,Critique
+C001560,Rabat,82.05,24,1,Critique
+C001632,Khémisset,82.0,36,1,Critique
+C000636,Skhirate-Témara,81.99,33,1,Critique
+C000878,Kénitra,81.96,32,1,Critique
+C001814,Rabat,81.94,33,1,Critique
+C001639,Rabat,81.9,25,1,Critique
+C000601,Kénitra,81.86,24,0,Critique
+C000195,Rabat,81.84,35,1,Critique
+C000881,Skhirate-Témara,81.83,36,1,Critique
+C001159,Kénitra,81.8,28,0,Critique
+C001161,Rabat,81.79,37,1,Critique
+C000519,Kénitra,81.78,21,1,Critique
+C000407,Khémisset,81.76,21,1,Critique
+C001821,Rabat,81.73,28,1,Critique
+C001503,Rabat,81.7,23,1,Critique
+C000072,Kénitra,81.66,17,1,Critique
+C001461,Khémisset,81.61,30,1,Critique
+C001391,Rabat,81.59,10,1,Critique
+C001378,Khémisset,81.59,15,1,Critique
+C000691,Skhirate-Témara,81.53,20,1,Critique
+C001745,Salé,81.49,31,1,Critique
+C000107,Rabat,81.47,17,1,Critique
+C000908,Salé,81.43,38,1,Critique
+C001292,Rabat,81.33,36,1,Critique
+C000904,Salé,81.31,39,1,Critique
+C000389,Kénitra,81.31,34,1,Critique
+C000873,Salé,81.3,16,1,Critique
+C001584,Skhirate-Témara,81.24,34,1,Critique
+C000041,Kénitra,81.23,24,1,Critique
+C001781,Kénitra,81.05,31,1,Critique
+C001079,Kénitra,81.03,22,1,Critique
+C001848,Rabat,81.01,35,1,Critique
+C001577,Sidi Kacem,81.0,34,1,Critique
+C001189,Skhirate-Témara,80.91,39,1,Critique
+C001080,Rabat,80.85,13,1,Critique
+C001029,Salé,80.84,27,1,Critique
+C000669,Kénitra,80.78,35,1,Critique
+C000747,Skhirate-Témara,80.78,24,1,Critique
+C000456,Skhirate-Témara,80.76,35,1,Critique
+C000903,Sidi Kacem,80.74,21,4,Critique
+C001134,Rabat,80.71,33,1,Critique
+C001859,Rabat,80.68,38,2,Critique
+C000729,Salé,80.65,39,1,Critique
+C000022,Salé,80.58,37,0,Critique
+C000408,Sidi Slimane,80.5,17,5,Critique
+C001957,Salé,80.45,38,0,Critique
+C000830,Kénitra,80.45,26,0,Critique
+C000557,Rabat,80.42,36,1,Critique
+C000445,Kénitra,80.41,18,0,Critique
+C001056,Kénitra,80.41,15,1,Critique
+C001476,Kénitra,80.36,35,1,Critique
+C000403,Rabat,80.33,37,1,Critique
+C001061,Rabat,80.32,37,1,Critique
+C001027,Salé,80.29,39,1,Critique
+C000088,Skhirate-Témara,80.28,22,1,Critique
+C001540,Salé,80.28,24,1,Critique
+C000329,Rabat,80.17,36,0,Critique
+C001541,Rabat,80.17,30,0,Critique
+C000087,Salé,80.07,22,1,Critique
+C000393,Kénitra,79.99,34,1,Critique
+C000741,Sidi Kacem,79.99,31,9,Critique
+C001636,Kénitra,79.97,34,1,Critique
+C001488,Salé,79.95,39,1,Critique
+C000004,Kénitra,79.91,20,1,Critique
+C000024,Kénitra,79.86,28,1,Critique
+C000038,Salé,79.84,33,1,Critique
+C000395,Skhirate-Témara,79.81,34,1,Critique
+C001206,Rabat,79.79,30,1,Critique
+C001777,Khémisset,79.77,28,1,Critique
+C001680,Khémisset,79.6,27,1,Critique
+C000677,Rabat,79.55,35,0,Critique
+C001691,Skhirate-Témara,79.55,38,0,Critique
+C000887,Kénitra,79.53,32,1,Critique
+C000839,Salé,79.47,29,1,Critique
+C000301,Salé,79.47,25,4,Critique
+C000420,Skhirate-Témara,79.34,37,0,Critique
+C001801,Skhirate-Témara,79.31,40,1,Critique
+C000187,Kénitra,79.27,27,2,Critique
+C001030,Kénitra,79.02,20,5,Critique
+C001276,Rabat,78.98,34,1,Critique
+C000423,Rabat,78.92,38,1,Critique
+C000097,Salé,78.9,36,1,Critique
+C001764,Kénitra,78.85,34,2,Critique
+C000370,Skhirate-Témara,78.83,11,0,Critique
+C001702,Skhirate-Témara,78.82,29,1,Critique
+C001960,Khémisset,78.8,15,1,Critique
+C000511,Salé,78.59,36,2,Critique
+C001238,Sidi Kacem,78.3,37,24,Critique
+C001510,Sidi Slimane,78.05,17,0,Critique
+C000575,Salé,77.82,39,1,Critique
+C001573,Rabat,77.79,20,1,Critique
+C001251,Salé,77.52,36,1,Critique
+C000594,Sidi Kacem,77.46,21,1,Critique
+C000396,Salé,77.2,30,1,Critique
+C000259,Salé,77.18,37,1,Critique
+C001347,Salé,77.09,27,1,Critique
+C000909,Rabat,77.0,22,1,Critique
+C001929,Skhirate-Témara,76.96,21,0,Critique
+C002016,Rabat,76.74,14,1,Critique
+C000235,Kénitra,76.73,35,1,Critique
+C000354,Rabat,76.71,20,0,Critique
+C001344,Salé,76.56,35,0,Critique
+C000399,Kénitra,76.46,21,1,Critique
+C000855,Sidi Kacem,76.36,25,1,Critique
+C001679,Skhirate-Témara,76.27,34,1,Critique
+C001187,Rabat,75.84,29,0,Critique
+C001847,Rabat,75.78,38,0,Critique
+C000288,Kénitra,75.68,14,0,Critique
+C001665,Khémisset,75.64,10,0,Critique
+C000508,Rabat,75.44,26,8,Critique
+C000127,Salé,75.25,37,1,Critique
+C000876,Kénitra,75.14,36,1,Critique
+C001324,Rabat,74.97,30,0,Élevé
+C001395,Rabat,74.54,21,0,Élevé
+C001169,Sidi Kacem,74.28,32,0,Élevé
+C001910,Rabat,74.17,37,1,Élevé
+C000300,Kénitra,74.16,39,0,Élevé
+C000001,Salé,73.77,21,0,Élevé
+C001203,Kénitra,73.73,25,20,Élevé
+C000468,Rabat,73.19,12,1,Élevé
+C001083,Salé,73.11,29,0,Élevé
+C000783,Salé,72.4,14,0,Élevé
+C000578,Rabat,72.33,22,1,Élevé
+C001534,Rabat,72.1,25,0,Élevé
+C000142,Salé,71.76,28,2,Élevé
+C001514,Rabat,71.75,34,2,Élevé
+C001039,Kénitra,71.67,39,0,Élevé
+C001935,Salé,71.2,27,23,Élevé
+C000147,Sidi Kacem,71.06,39,1,Élevé
+C001529,Rabat,71.04,15,3,Élevé
+C001762,Salé,70.9,28,0,Élevé
+C000618,Rabat,70.87,29,0,Élevé
+C000293,Salé,70.59,18,3,Élevé
+C001866,Kénitra,70.58,31,0,Élevé
+C000367,Khémisset,70.53,20,1,Élevé
+C001987,Rabat,70.23,28,1,Élevé
+C000586,Salé,69.95,11,0,Élevé
+C001761,Rabat,69.88,33,0,Élevé
+C000803,Kénitra,69.66,34,0,Élevé
+C001356,Kénitra,69.62,12,1,Élevé
+C001492,Salé,69.56,31,0,Élevé
+C001291,Kénitra,69.46,20,0,Élevé
+C001852,Kénitra,69.36,39,1,Élevé
+C001182,Khémisset,69.31,29,0,Élevé
+C001150,Kénitra,69.22,17,0,Élevé
+C000892,Kénitra,68.74,20,1,Élevé
+C000584,Rabat,68.66,30,1,Élevé
+C000530,Skhirate-Témara,68.62,36,1,Élevé
+C001272,Rabat,68.49,26,1,Élevé
+C000894,Rabat,68.01,19,0,Élevé
+C000797,Sidi Slimane,67.4,39,0,Élevé
+C000572,Rabat,67.01,31,0,Élevé
+C001096,Kénitra,66.87,26,1,Élevé
+C000684,Kénitra,66.45,36,22,Élevé
+C000243,Skhirate-Témara,65.99,39,0,Élevé
+C001608,Kénitra,65.76,22,0,Élevé
+C001265,Kénitra,65.74,33,0,Élevé
+C000236,Kénitra,65.54,22,0,Élevé
+C001158,Rabat,65.16,33,0,Élevé
+C001877,Rabat,65.13,19,0,Élevé
+C001932,Rabat,64.97,27,23,Élevé
+C000827,Skhirate-Témara,64.82,36,0,Élevé
+C000994,Salé,64.74,23,0,Élevé
+C001396,Rabat,64.51,21,0,Élevé
+C001860,Rabat,63.7,15,0,Élevé
+C000504,Sidi Slimane,63.48,27,0,Élevé
+C001645,Kénitra,63.45,14,0,Élevé
+C001985,Skhirate-Témara,63.01,28,0,Élevé
+C001486,Salé,62.86,26,0,Élevé
+C000782,Kénitra,62.66,39,0,Élevé
+C000991,Rabat,62.63,14,0,Élevé
+C001721,Kénitra,62.62,17,0,Élevé
+C000564,Salé,62.13,30,0,Élevé
+C000503,Kénitra,62.1,13,0,Élevé
+C000470,Kénitra,61.77,38,0,Élevé
+C001548,Salé,61.75,22,0,Élevé
+C000444,Khémisset,61.58,12,0,Élevé
+C001846,Salé,61.52,39,0,Élevé
+C001820,Salé,61.33,27,0,Élevé
+C001975,Rabat,61.18,31,0,Élevé
+C000104,Kénitra,61.08,10,0,Élevé
+C000007,Skhirate-Témara,60.99,29,0,Élevé
+C001769,Rabat,60.95,17,7,Élevé
+C000633,Kénitra,60.46,27,0,Élevé
+C001442,Skhirate-Témara,60.43,10,0,Élevé
+C000724,Rabat,60.07,26,1,Élevé
+C001600,Rabat,59.69,24,0,Élevé
+C001997,Rabat,59.53,38,1,Élevé
+C001705,Salé,58.91,24,0,Élevé
+C001315,Khémisset,58.84,28,23,Élevé
+C001601,Skhirate-Témara,58.83,34,0,Élevé
+C000202,Kénitra,58.67,21,0,Élevé
+C001688,Salé,58.57,37,0,Élevé
+C000805,Salé,58.57,24,0,Élevé
+C000874,Rabat,58.43,20,0,Élevé
+C000590,Salé,57.97,27,0,Élevé
+C001309,Skhirate-Témara,57.85,22,1,Élevé
+C001950,Rabat,57.71,23,0,Élevé
+C000371,Rabat,57.64,33,0,Élevé
+C001865,Skhirate-Témara,57.58,37,0,Élevé
+C000134,Salé,57.45,35,24,Élevé
+C000010,Skhirate-Témara,57.29,14,2,Élevé
+C000136,Khémisset,56.62,19,0,Élevé
+C001437,Salé,55.7,22,0,Élevé
+C000342,Rabat,55.05,27,1,Élevé
+C000309,Kénitra,54.68,34,0,Élevé
+C000069,Rabat,54.64,37,0,Élevé
+C000328,Skhirate-Témara,54.29,19,1,Élevé
+C000787,Khémisset,54.23,33,0,Élevé
+C000751,Sidi Slimane,53.98,24,1,Élevé
+C001980,Kénitra,53.94,16,0,Élevé
+C000275,Skhirate-Témara,53.79,28,1,Élevé
+C000643,Kénitra,53.61,20,0,Élevé
+C001780,Rabat,53.57,13,0,Élevé
+C000936,Rabat,53.02,26,0,Élevé
+C000901,Rabat,52.99,28,0,Élevé
+C001191,Kénitra,52.75,36,0,Élevé
+C001730,Salé,52.73,38,0,Élevé
+C001900,Kénitra,51.93,26,0,Élevé
+C000981,Salé,51.9,32,22,Élevé
+C000789,Skhirate-Témara,51.71,15,0,Élevé
+C000676,Salé,51.03,37,28,Élevé
+C001268,Rabat,50.43,12,0,Élevé
+C001451,Skhirate-Témara,50.14,31,1,Élevé
+C000788,Khémisset,49.72,27,0,Modéré
+C000731,Kénitra,49.72,29,0,Modéré
+C000485,Skhirate-Témara,49.59,31,0,Modéré
+C001004,Rabat,49.56,35,0,Modéré
+C001603,Rabat,48.97,14,0,Modéré
+C000580,Salé,48.88,35,21,Modéré
+C001590,Skhirate-Témara,48.73,11,1,Modéré
+C000341,Skhirate-Témara,48.52,38,0,Modéré
+C000277,Rabat,48.45,33,0,Modéré
+C000409,Kénitra,48.1,25,1,Modéré
+C000009,Sidi Slimane,47.94,21,0,Modéré
+C000880,Salé,47.92,23,0,Modéré
+C001872,Kénitra,47.62,19,0,Modéré
+C002024,Kénitra,47.59,10,6,Modéré
+C001467,Skhirate-Témara,47.24,11,0,Modéré
+C000813,Skhirate-Témara,46.74,15,0,Modéré
+C001448,Salé,46.73,27,0,Modéré
+C000529,Rabat,46.7,22,0,Modéré
+C001470,Skhirate-Témara,46.67,36,0,Modéré
+C001017,Kénitra,46.38,15,0,Modéré
+C000956,Skhirate-Témara,46.28,14,1,Modéré
+C001092,Skhirate-Témara,45.85,13,6,Modéré
+C001417,Kénitra,45.78,25,0,Modéré
+C001976,Sidi Kacem,45.52,27,0,Modéré
+C002012,Sidi Kacem,45.05,39,0,Modéré
+C001827,Kénitra,44.46,37,0,Modéré
+C000719,Salé,43.86,26,1,Modéré
+C001432,Skhirate-Témara,43.77,30,0,Modéré
+C000518,Sidi Kacem,43.71,35,0,Modéré
+C001332,Rabat,43.62,39,0,Modéré
+C001759,Rabat,43.58,32,0,Modéré
+C000721,Khémisset,43.42,31,0,Modéré
+C001706,Kénitra,43.38,14,0,Modéré
+C001667,Salé,43.34,21,0,Modéré
+C001647,Skhirate-Témara,42.17,29,0,Modéré
+C001504,Rabat,42.1,21,0,Modéré
+C001148,Khémisset,42.04,10,0,Modéré
+C001286,Salé,41.52,28,0,Modéré
+C001135,Skhirate-Témara,41.03,30,0,Modéré
+C000944,Sidi Slimane,40.84,28,0,Modéré
+C001085,Kénitra,40.75,21,0,Modéré
+C000627,Khémisset,40.46,20,0,Modéré
+C000081,Rabat,40.42,25,0,Modéré
+C001263,Salé,40.37,21,0,Modéré
+C000253,Sidi Slimane,40.02,14,0,Modéré
+C001246,Kénitra,39.97,10,1,Modéré
+C000853,Salé,39.6,14,0,Modéré
+C001482,Salé,39.01,35,0,Modéré
+C000467,Kénitra,39.0,16,0,Modéré
+C000401,Khémisset,38.87,17,0,Modéré
+C001686,Rabat,38.64,32,0,Modéré
+C000384,Rabat,38.45,32,0,Modéré
+C000778,Salé,38.44,25,0,Modéré
+C000746,Salé,38.29,33,0,Modéré
+C001839,Khémisset,38.02,17,0,Modéré
+C001984,Skhirate-Témara,37.93,30,0,Modéré
+C000269,Khémisset,37.66,21,0,Modéré
+C001167,Sidi Kacem,37.59,33,0,Modéré
+C001904,Rabat,37.57,26,0,Modéré
+C001809,Salé,37.47,25,0,Modéré
+C000382,Skhirate-Témara,37.28,25,1,Modéré
+C000000,Khémisset,37.25,30,0,Modéré
+C001857,Skhirate-Témara,37.25,28,1,Modéré
+C001439,Kénitra,36.89,19,0,Modéré
+C000426,Khémisset,36.49,33,0,Modéré
+C001042,Khémisset,36.42,25,0,Modéré
+C001638,Rabat,36.4,39,0,Modéré
+C001413,Skhirate-Témara,36.27,28,0,Modéré
+C000969,Sidi Kacem,36.01,27,0,Modéré
+C000193,Sidi Kacem,35.73,22,0,Modéré
+C001037,Rabat,35.68,21,15,Modéré
+C000775,Salé,35.56,25,0,Modéré
+C001181,Salé,35.54,26,0,Modéré
+C001646,Salé,35.29,26,0,Modéré
+C001947,Skhirate-Témara,35.2,15,0,Modéré
+C000011,Skhirate-Témara,35.16,33,0,Modéré
+C001602,Skhirate-Témara,35.15,21,0,Modéré
+C000921,Rabat,35.08,14,0,Modéré
+C000089,Salé,34.91,16,0,Modéré
+C001126,Salé,34.39,28,0,Modéré
+C000307,Khémisset,34.35,12,0,Modéré
+C001367,Khémisset,34.3,33,0,Modéré
+C000849,Skhirate-Témara,34.29,38,1,Modéré
+C000799,Khémisset,34.22,38,0,Modéré
+C001195,Salé,34.07,13,0,Modéré
+C000703,Rabat,34.02,32,0,Modéré
+C001264,Skhirate-Témara,33.97,36,0,Modéré
+C000946,Salé,33.96,34,0,Modéré
+C001119,Salé,33.93,31,0,Modéré
+C001358,Kénitra,33.83,15,0,Modéré
+C001682,Salé,33.67,30,0,Modéré
+C001936,Kénitra,33.63,34,0,Modéré
+C000619,Rabat,33.59,31,0,Modéré
+C000452,Skhirate-Témara,33.46,27,10,Modéré
+C000375,Kénitra,33.16,16,0,Modéré
+C000324,Sidi Kacem,33.1,15,0,Modéré
+C001285,Khémisset,33.09,27,0,Modéré
+C001654,Kénitra,33.01,24,0,Modéré
+C001473,Khémisset,32.99,24,0,Modéré
+C000045,Khémisset,32.95,37,0,Modéré
+C000607,Rabat,32.93,24,0,Modéré
+C001509,Khémisset,32.79,24,0,Modéré
+C001736,Kénitra,32.7,37,0,Modéré
+C000596,Salé,32.58,14,0,Modéré
+C001374,Kénitra,32.53,22,1,Modéré
+C000696,Rabat,32.43,32,0,Modéré
+C001754,Kénitra,32.43,11,0,Modéré
+C000539,Sidi Kacem,32.3,36,0,Modéré
+C000272,Kénitra,32.19,31,1,Modéré
+C001747,Rabat,32.03,27,0,Modéré
+C001837,Salé,31.97,29,0,Modéré
+C000025,Kénitra,31.93,35,0,Modéré
+C000003,Salé,31.89,39,0,Modéré
+C001403,Khémisset,31.85,29,0,Modéré
+C000919,Salé,31.83,22,0,Modéré
+C000534,Sidi Kacem,31.7,33,0,Modéré
+C001956,Kénitra,31.61,34,0,Modéré
+C000062,Kénitra,31.59,21,0,Modéré
+C000101,Salé,31.59,30,0,Modéré
+C001517,Rabat,31.46,37,0,Modéré
+C000610,Salé,31.46,26,0,Modéré
+C000997,Salé,31.45,39,0,Modéré
+C001472,Kénitra,31.35,17,0,Modéré
+C000786,Sidi Slimane,31.29,36,0,Modéré
+C000582,Salé,31.27,26,0,Modéré
+C000015,Skhirate-Témara,31.16,36,0,Modéré
+C001200,Skhirate-Témara,31.11,38,0,Modéré
+C001231,Rabat,31.1,37,0,Modéré
+C000158,Khémisset,31.08,28,0,Modéré
+C001327,Skhirate-Témara,31.05,39,0,Modéré
+C000758,Sidi Kacem,31.04,30,0,Modéré
+C000757,Salé,31.04,28,0,Modéré
+C001799,Kénitra,30.9,29,0,Modéré
+C001961,Kénitra,30.86,20,0,Modéré
+C000974,Rabat,30.82,39,0,Modéré
+C001360,Salé,30.78,35,0,Modéré
+C000374,Sidi Kacem,30.68,35,0,Modéré
+C001619,Kénitra,30.67,27,0,Modéré
+C001101,Khémisset,30.6,34,0,Modéré
+C001678,Rabat,30.56,29,0,Modéré
+C000379,Khémisset,30.44,13,0,Modéré
+C000752,Kénitra,30.43,29,0,Modéré
+C000179,Salé,30.36,33,0,Modéré
+C000550,Kénitra,30.33,38,0,Modéré
+C000344,Sidi Kacem,30.31,33,0,Modéré
+C001317,Rabat,30.3,36,0,Modéré
+C000090,Skhirate-Témara,30.24,23,0,Modéré
+C001977,Rabat,30.22,37,0,Modéré
+C000725,Rabat,30.21,33,0,Modéré
+C000021,Khémisset,30.16,23,0,Modéré
+C001589,Skhirate-Témara,30.15,35,0,Modéré
+C001423,Kénitra,29.98,39,0,Modéré
+C000343,Salé,29.96,27,0,Modéré
+C001433,Kénitra,29.92,30,0,Modéré
+C000965,Rabat,29.89,20,0,Modéré
+C000479,Rabat,29.83,31,0,Modéré
+C001652,Salé,29.8,17,0,Modéré
+C000377,Salé,29.68,19,0,Modéré
+C000889,Rabat,29.67,33,0,Modéré
+C001073,Rabat,29.67,39,0,Modéré
+C001218,Rabat,29.66,31,0,Modéré
+C000701,Khémisset,29.66,15,0,Modéré
+C000110,Skhirate-Témara,29.64,15,0,Modéré
+C001967,Sidi Kacem,29.61,20,0,Modéré
+C001435,Skhirate-Témara,29.6,35,0,Modéré
+C000986,Salé,29.59,37,0,Modéré
+C001116,Sidi Kacem,29.56,11,0,Modéré
+C001505,Skhirate-Témara,29.51,36,0,Modéré
+C000872,Salé,29.45,31,0,Modéré
+C001597,Salé,29.4,26,0,Modéré
+C001058,Khémisset,29.4,36,0,Modéré
+C000254,Skhirate-Témara,29.38,18,0,Modéré
+C000868,Kénitra,29.38,27,0,Modéré
+C001861,Khémisset,29.37,30,0,Modéré
+C000029,Sidi Kacem,29.36,39,0,Modéré
+C001631,Salé,29.32,22,0,Modéré
+C001244,Salé,29.32,13,0,Modéré
+C002018,Salé,29.31,36,0,Modéré
+C000473,Rabat,29.29,12,0,Modéré
+C000711,Kénitra,29.26,21,0,Modéré
+C001853,Salé,29.26,12,0,Modéré
+C001091,Kénitra,29.23,14,0,Modéré
+C000685,Khémisset,29.21,29,0,Modéré
+C001072,Salé,29.18,34,0,Modéré
+C001909,Skhirate-Témara,29.08,27,0,Modéré
+C000457,Salé,29.07,35,0,Modéré
+C001922,Salé,29.04,23,0,Modéré
+C000840,Kénitra,29.02,36,0,Modéré
+C000622,Sidi Kacem,28.95,37,0,Modéré
+C001088,Kénitra,28.93,32,0,Modéré
+C000330,Salé,28.92,31,0,Modéré
+C000413,Skhirate-Témara,28.9,34,0,Modéré
+C001693,Kénitra,28.88,13,0,Modéré
+C000271,Khémisset,28.86,37,0,Modéré
+C000261,Salé,28.82,17,0,Modéré
+C001949,Sidi Kacem,28.82,31,0,Modéré
+C001254,Kénitra,28.8,31,0,Modéré
+C001103,Skhirate-Témara,28.8,31,0,Modéré
+C001087,Kénitra,28.79,30,0,Modéré
+C000400,Skhirate-Témara,28.78,15,0,Modéré
+C001812,Kénitra,28.77,34,0,Modéré
+C000896,Rabat,28.77,24,0,Modéré
+C001676,Kénitra,28.76,15,0,Modéré
+C001819,Salé,28.72,29,0,Modéré
+C001592,Khémisset,28.71,27,0,Modéré
+C000363,Skhirate-Témara,28.7,22,0,Modéré
+C000606,Khémisset,28.7,17,0,Modéré
+C001197,Kénitra,28.69,18,0,Modéré
+C000907,Kénitra,28.66,39,0,Modéré
+C000739,Kénitra,28.65,22,0,Modéré
+C000076,Skhirate-Témara,28.65,19,0,Modéré
+C000563,Salé,28.62,38,0,Modéré
+C001390,Khémisset,28.57,27,0,Modéré
+C001824,Kénitra,28.56,37,0,Modéré
+C001109,Sidi Slimane,28.55,35,0,Modéré
+C000390,Rabat,28.54,15,9,Modéré
+C001018,Kénitra,28.53,10,0,Modéré
+C001328,Salé,28.52,20,0,Modéré
+C001434,Sidi Slimane,28.51,13,0,Modéré
+C000150,Salé,28.51,24,0,Modéré
+C001611,Rabat,28.49,23,0,Modéré
+C001241,Salé,28.48,38,0,Modéré
+C001617,Khémisset,28.47,38,0,Modéré
+C000832,Sidi Kacem,28.42,10,0,Modéré
+C000339,Kénitra,28.42,27,0,Modéré
+C001790,Salé,28.41,39,0,Modéré
+C001893,Rabat,28.41,24,0,Modéré
+C000515,Salé,28.38,28,0,Modéré
+C001553,Kénitra,28.38,38,0,Modéré
+C000858,Kénitra,28.37,24,0,Modéré
+C000100,Skhirate-Témara,28.37,33,0,Modéré
+C001453,Rabat,28.34,38,0,Modéré
+C001483,Sidi Kacem,28.32,35,0,Modéré
+C001695,Skhirate-Témara,28.32,30,0,Modéré
+C000255,Skhirate-Témara,28.32,28,0,Modéré
+C000879,Kénitra,28.26,25,0,Modéré
+C001892,Rabat,28.21,18,0,Modéré
+C000756,Kénitra,28.19,35,0,Modéré
+C000225,Skhirate-Témara,28.16,11,0,Modéré
+C001788,Salé,28.16,25,0,Modéré
+C001452,Sidi Slimane,28.13,26,0,Modéré
+C000808,Kénitra,28.09,11,0,Modéré
+C000093,Kénitra,28.09,15,0,Modéré
+C000240,Salé,28.09,37,0,Modéré
+C002020,Salé,28.04,20,0,Modéré
+C001557,Rabat,28.04,23,0,Modéré
+C001019,Sidi Kacem,28.03,26,0,Modéré
+C001575,Kénitra,28.02,21,0,Modéré
+C000629,Skhirate-Témara,27.98,12,0,Modéré
+C001714,Salé,27.98,37,0,Modéré
+C001875,Skhirate-Témara,27.98,19,0,Modéré
+C000844,Salé,27.96,36,0,Modéré
+C001944,Sidi Kacem,27.95,37,0,Modéré
+C001404,Khémisset,27.94,36,1,Modéré
+C000535,Rabat,27.93,39,0,Modéré
+C000397,Salé,27.93,38,0,Modéré
+C001023,Rabat,27.92,39,0,Modéré
+C001139,Kénitra,27.92,20,0,Modéré
+C000690,Salé,27.92,25,0,Modéré
+C000204,Kénitra,27.91,37,0,Modéré
+C001383,Salé,27.88,14,0,Modéré
+C000080,Salé,27.87,26,0,Modéré
+C000052,Rabat,27.85,32,0,Modéré
+C001008,Kénitra,27.78,30,0,Modéré
+C001445,Skhirate-Témara,27.69,39,0,Modéré
+C000885,Kénitra,27.66,37,0,Modéré
+C000346,Khémisset,27.63,39,0,Modéré
+C000194,Skhirate-Témara,27.61,16,0,Modéré
+C000438,Salé,27.61,28,0,Modéré
+C001233,Rabat,27.58,15,0,Modéré
+C000891,Sidi Kacem,27.56,33,0,Modéré
+C001955,Kénitra,27.55,33,0,Modéré
+C000174,Skhirate-Témara,27.54,25,0,Modéré
+C000005,Skhirate-Témara,27.51,20,0,Modéré
+C001020,Kénitra,27.49,17,0,Modéré
+C001316,Salé,27.47,40,0,Modéré
+C001729,Kénitra,27.45,38,0,Modéré
+C000077,Khémisset,27.44,10,0,Modéré
+C001266,Kénitra,27.42,37,0,Modéré
+C001920,Rabat,27.4,27,0,Modéré
+C001024,Skhirate-Témara,27.37,11,0,Modéré
+C000357,Skhirate-Témara,27.35,27,0,Modéré
+C001369,Skhirate-Témara,27.34,22,0,Modéré
+C001740,Skhirate-Témara,27.34,21,0,Modéré
+C001438,Rabat,27.33,33,0,Modéré
+C000533,Sidi Slimane,27.33,19,0,Modéré
+C001040,Skhirate-Témara,27.28,38,0,Modéré
+C001468,Salé,27.25,16,0,Modéré
+C000520,Salé,27.22,38,0,Modéré
+C001144,Khémisset,27.17,36,0,Modéré
+C001201,Khémisset,27.14,30,0,Modéré
+C000284,Kénitra,27.11,39,0,Modéré
+C001501,Rabat,27.11,16,0,Modéré
+C000560,Kénitra,27.1,39,0,Modéré
+C000528,Sidi Slimane,27.09,17,0,Modéré
+C000625,Salé,27.08,32,0,Modéré
+C000352,Sidi Kacem,27.08,21,0,Modéré
+C000373,Rabat,27.07,36,0,Modéré
+C000730,Rabat,27.02,20,0,Modéré
+C000210,Sidi Kacem,27.02,20,0,Modéré
+C001723,Skhirate-Témara,26.99,18,0,Modéré
+C001547,Rabat,26.98,20,0,Modéré
+C001825,Skhirate-Témara,26.97,27,0,Modéré
+C001570,Salé,26.95,27,0,Modéré
+C001157,Sidi Kacem,26.95,24,0,Modéré
+C000295,Skhirate-Témara,26.94,34,0,Modéré
+C001364,Kénitra,26.92,18,0,Modéré
+C000427,Skhirate-Témara,26.91,24,0,Modéré
+C001696,Sidi Slimane,26.9,28,0,Modéré
+C001525,Kénitra,26.89,10,0,Modéré
+C001084,Salé,26.88,31,0,Modéré
+C000807,Skhirate-Témara,26.88,18,0,Modéré
+C000695,Salé,26.86,28,0,Modéré
+C001870,Salé,26.85,38,0,Modéré
+C000244,Salé,26.82,37,0,Modéré
+C000644,Rabat,26.81,30,0,Modéré
+C001772,Rabat,26.8,14,0,Modéré
+C001699,Salé,26.8,21,0,Modéré
+C001454,Kénitra,26.79,24,0,Modéré
+C001053,Rabat,26.77,23,0,Modéré
+C001526,Khémisset,26.75,29,0,Modéré
+C000178,Salé,26.74,11,0,Modéré
+C000532,Kénitra,26.72,16,0,Modéré
+C001066,Kénitra,26.72,14,0,Modéré
+C000437,Rabat,26.67,16,0,Modéré
+C000771,Salé,26.67,12,0,Modéré
+C000753,Kénitra,26.63,25,0,Modéré
+C001567,Kénitra,26.63,13,0,Modéré
+C001381,Sidi Kacem,26.6,29,0,Modéré
+C000884,Rabat,26.58,32,0,Modéré
+C000298,Kénitra,26.57,19,0,Modéré
+C000768,Khémisset,26.57,18,0,Modéré
+C000818,Salé,26.53,10,0,Modéré
+C000335,Kénitra,26.53,36,0,Modéré
+C001250,Sidi Slimane,26.51,31,0,Modéré
+C001052,Sidi Slimane,26.47,36,0,Modéré
+C000964,Kénitra,26.46,34,0,Modéré
+C001028,Sidi Kacem,26.45,21,0,Modéré
+C000977,Kénitra,26.43,23,0,Modéré
+C000540,Salé,26.35,38,0,Modéré
+C000766,Salé,26.31,33,0,Modéré
+C001637,Salé,26.3,14,0,Modéré
+C000811,Sidi Slimane,26.28,22,0,Modéré
+C000410,Skhirate-Témara,26.28,34,0,Modéré
+C001728,Khémisset,26.28,27,0,Modéré
+C001389,Rabat,26.25,24,0,Modéré
+C000318,Sidi Kacem,26.2,17,0,Modéré
+C001838,Rabat,26.18,34,0,Modéré
+C001402,Rabat,26.17,29,0,Modéré
+C000571,Salé,26.05,24,0,Modéré
+C001106,Kénitra,26.0,34,0,Modéré
+C001604,Sidi Kacem,25.97,30,0,Modéré
+C001043,Rabat,25.95,14,0,Modéré
+C000708,Salé,25.94,26,0,Modéré
+C000800,Rabat,25.87,34,0,Modéré
+C001811,Salé,25.85,24,0,Modéré
+C001998,Rabat,25.83,37,0,Modéré
+C001641,Salé,25.77,37,0,Modéré
+C001063,Kénitra,25.77,29,0,Modéré
+C000661,Sidi Slimane,25.77,19,0,Modéré
+C001945,Rabat,25.73,35,0,Modéré
+C000843,Rabat,25.72,31,0,Modéré
+C002001,Kénitra,25.69,31,0,Modéré
+C000211,Kénitra,25.68,18,0,Modéré
+C001586,Salé,25.67,37,0,Modéré
+C001569,Sidi Kacem,25.67,24,0,Modéré
+C001629,Rabat,25.66,19,0,Modéré
+C001518,Skhirate-Témara,25.63,37,0,Modéré
+C001894,Kénitra,25.57,23,0,Modéré
+C000368,Rabat,25.56,34,0,Modéré
+C000770,Sidi Slimane,25.55,16,0,Modéré
+C000027,Skhirate-Témara,25.51,35,0,Modéré
+C000026,Kénitra,25.51,16,0,Modéré
+C000032,Salé,25.49,10,0,Modéré
+C001351,Rabat,25.48,39,0,Modéré
+C001616,Kénitra,25.48,36,0,Modéré
+C000893,Skhirate-Témara,25.47,19,0,Modéré
+C001933,Skhirate-Témara,25.46,29,0,Modéré
+C000260,Kénitra,25.46,32,0,Modéré
+C000767,Khémisset,25.45,19,0,Modéré
+C001906,Sidi Slimane,25.45,23,0,Modéré
+C000514,Rabat,25.44,35,0,Modéré
+C000781,Skhirate-Témara,25.43,32,0,Modéré
+C000798,Kénitra,25.43,20,0,Modéré
+C000971,Skhirate-Témara,25.43,31,0,Modéré
+C000124,Khémisset,25.39,39,0,Modéré
+C001622,Khémisset,25.36,11,0,Modéré
+C001289,Salé,25.33,36,0,Modéré
+C001192,Skhirate-Témara,25.32,12,0,Modéré
+C000057,Salé,25.25,35,0,Modéré
+C001228,Skhirate-Témara,25.23,28,0,Modéré
+C000506,Khémisset,25.21,39,0,Modéré
+C000649,Salé,25.21,24,0,Modéré
+C001401,Sidi Kacem,25.17,36,0,Modéré
+C001704,Khémisset,25.15,36,0,Modéré
+C001173,Salé,25.1,33,0,Modéré
+C000686,Khémisset,25.1,27,0,Modéré
+C000051,Khémisset,25.09,15,0,Modéré
+C000806,Rabat,25.09,30,0,Modéré
+C000947,Salé,25.07,34,0,Modéré
+C000681,Skhirate-Témara,25.06,19,0,Modéré
+C000428,Salé,25.05,24,0,Modéré
+C000347,Rabat,25.01,26,0,Modéré
+C001507,Khémisset,25.0,13,0,Modéré
+C001511,Sidi Kacem,24.98,37,0,Faible
+C000777,Salé,24.97,26,0,Faible
+C000415,Rabat,24.97,29,0,Faible
+C001493,Kénitra,24.95,19,0,Faible
+C000700,Salé,24.92,36,0,Faible
+C001443,Rabat,24.91,15,0,Faible
+C001477,Skhirate-Témara,24.9,16,0,Faible
+C001074,Kénitra,24.9,36,0,Faible
+C000463,Skhirate-Témara,24.89,21,0,Faible
+C001718,Salé,24.84,21,0,Faible
+C000121,Skhirate-Témara,24.82,21,0,Faible
+C001709,Khémisset,24.81,29,0,Faible
+C001064,Salé,24.8,35,0,Faible
+C001542,Skhirate-Témara,24.79,23,0,Faible
+C000942,Salé,24.78,25,0,Faible
+C000859,Sidi Kacem,24.78,30,0,Faible
+C000023,Kénitra,24.78,31,0,Faible
+C000573,Rabat,24.77,21,0,Faible
+C001738,Salé,24.74,32,0,Faible
+C000546,Salé,24.74,20,0,Faible
+C000030,Skhirate-Témara,24.74,22,0,Faible
+C001349,Rabat,24.73,36,0,Faible
+C001942,Skhirate-Témara,24.68,29,0,Faible
+C000673,Salé,24.64,23,0,Faible
+C001048,Sidi Slimane,24.6,27,0,Faible
+C000945,Rabat,24.58,22,0,Faible
+C001921,Kénitra,24.56,14,0,Faible
+C001293,Skhirate-Témara,24.55,12,0,Faible
+C001624,Kénitra,24.52,31,0,Faible
+C001449,Rabat,24.5,17,0,Faible
+C001054,Kénitra,24.49,39,0,Faible
+C000017,Sidi Kacem,24.48,34,0,Faible
+C000036,Skhirate-Témara,24.46,13,0,Faible
+C000435,Rabat,24.46,31,0,Faible
+C001953,Sidi Kacem,24.46,35,0,Faible
+C000574,Salé,24.45,37,0,Faible
+C001581,Rabat,24.4,33,0,Faible
+C001746,Rabat,24.38,10,0,Faible
+C002019,Sidi Kacem,24.38,36,0,Faible
+C001707,Salé,24.38,34,0,Faible
+C000882,Kénitra,24.36,31,0,Faible
+C000937,Skhirate-Témara,24.36,34,3,Faible
+C000289,Salé,24.34,36,0,Faible
+C001803,Rabat,24.33,19,0,Faible
+C000488,Rabat,24.32,34,0,Faible
+C000500,Kénitra,24.32,11,0,Faible
+C000918,Rabat,24.3,36,0,Faible
+C000736,Rabat,24.3,34,0,Faible
+C000816,Kénitra,24.26,21,0,Faible
+C000968,Rabat,24.24,22,0,Faible
+C001605,Rabat,24.23,16,0,Faible
+C000078,Kénitra,24.21,24,0,Faible
+C001656,Rabat,24.19,13,0,Faible
+C001306,Kénitra,24.16,37,0,Faible
+C000163,Skhirate-Témara,24.12,38,0,Faible
+C000434,Skhirate-Témara,24.12,25,0,Faible
+C000196,Kénitra,24.1,35,0,Faible
+C000850,Salé,24.08,35,0,Faible
+C001284,Kénitra,24.07,12,0,Faible
+C002000,Rabat,24.06,13,0,Faible
+C000561,Skhirate-Témara,24.06,10,0,Faible
+C001110,Kénitra,24.04,11,0,Faible
+C000475,Khémisset,24.01,31,0,Faible
+C000656,Rabat,24.0,39,0,Faible
+C001673,Salé,23.98,38,0,Faible
+C000138,Kénitra,23.96,28,0,Faible
+C001607,Sidi Slimane,23.96,22,0,Faible
+C001572,Rabat,23.96,29,0,Faible
+C000282,Sidi Kacem,23.95,32,0,Faible
+C000472,Skhirate-Témara,23.94,32,0,Faible
+C000206,Khémisset,23.91,20,0,Faible
+C001464,Rabat,23.9,14,0,Faible
+C000621,Kénitra,23.89,36,0,Faible
+C000201,Skhirate-Témara,23.89,30,0,Faible
+C000141,Kénitra,23.87,11,0,Faible
+C001991,Rabat,23.83,12,0,Faible
+C000207,Salé,23.83,36,0,Faible
+C000414,Rabat,23.8,25,0,Faible
+C000287,Kénitra,23.77,25,0,Faible
+C000458,Skhirate-Témara,23.77,12,0,Faible
+C001375,Kénitra,23.77,30,0,Faible
+C000173,Sidi Slimane,23.76,30,0,Faible
+C000184,Salé,23.75,26,0,Faible
+C001339,Salé,23.67,32,0,Faible
+C000276,Khémisset,23.64,39,0,Faible
+C001151,Kénitra,23.61,20,0,Faible
+C000567,Salé,23.6,37,0,Faible
+C000772,Sidi Kacem,23.6,35,0,Faible
+C001190,Salé,23.59,23,0,Faible
+C000929,Sidi Slimane,23.58,12,0,Faible
+C001748,Kénitra,23.58,31,0,Faible
+C001710,Skhirate-Témara,23.57,34,0,Faible
+C000638,Salé,23.56,29,0,Faible
+C000386,Kénitra,23.55,24,0,Faible
+C000995,Kénitra,23.53,33,0,Faible
+C000044,Rabat,23.52,30,0,Faible
+C000670,Kénitra,23.52,28,0,Faible
+C000137,Kénitra,23.52,13,0,Faible
+C000555,Salé,23.5,18,0,Faible
+C000611,Rabat,23.49,13,0,Faible
+C000002,Rabat,23.48,14,0,Faible
+C002023,Sidi Kacem,23.47,16,0,Faible
+C001003,Skhirate-Témara,23.46,20,0,Faible
+C001566,Rabat,23.44,27,0,Faible
+C000054,Khémisset,23.43,39,0,Faible
+C000718,Skhirate-Témara,23.41,39,0,Faible
+C001370,Salé,23.4,21,0,Faible
+C000925,Rabat,23.38,15,0,Faible
+C001982,Rabat,23.37,28,0,Faible
+C001891,Salé,23.36,31,0,Faible
+C001867,Rabat,23.35,33,0,Faible
+C000477,Salé,23.35,38,0,Faible
+C001336,Rabat,23.34,39,0,Faible
+C000641,Khémisset,23.33,35,0,Faible
+C000227,Salé,23.33,26,0,Faible
+C001051,Rabat,23.31,12,0,Faible
+C001808,Skhirate-Témara,23.3,33,0,Faible
+C001719,Kénitra,23.29,23,0,Faible
+C001377,Rabat,23.28,36,0,Faible
+C001767,Kénitra,23.24,29,0,Faible
+C001009,Skhirate-Témara,23.24,10,0,Faible
+C000617,Kénitra,23.23,38,0,Faible
+C000652,Kénitra,23.23,28,0,Faible
+C001348,Salé,23.23,24,0,Faible
+C000628,Rabat,23.22,36,0,Faible
+C000465,Sidi Kacem,23.21,16,0,Faible
+C001786,Skhirate-Témara,23.19,23,0,Faible
+C000165,Sidi Kacem,23.14,25,0,Faible
+C001708,Salé,23.11,20,0,Faible
+C001155,Kénitra,23.09,30,0,Faible
+C000223,Salé,23.08,22,0,Faible
+C001229,Rabat,23.06,17,0,Faible
+C001300,Sidi Slimane,23.05,22,0,Faible
+C001114,Rabat,23.04,20,0,Faible
+C000064,Kénitra,23.03,39,0,Faible
+C001832,Salé,23.03,34,0,Faible
+C000715,Salé,23.01,25,0,Faible
+C001305,Kénitra,23.01,26,0,Faible
+C001104,Khémisset,23.0,37,0,Faible
+C001485,Kénitra,23.0,13,0,Faible
+C001387,Rabat,22.99,37,0,Faible
+C001530,Sidi Slimane,22.99,36,0,Faible
+C001731,Khémisset,22.96,28,0,Faible
+C000442,Skhirate-Témara,22.96,23,0,Faible
+C001794,Skhirate-Témara,22.94,11,0,Faible
+C000103,Salé,22.94,24,0,Faible
+C001359,Rabat,22.91,24,0,Faible
+C002008,Skhirate-Témara,22.9,23,0,Faible
+C000218,Salé,22.9,36,0,Faible
+C001539,Rabat,22.87,39,0,Faible
+C000833,Kénitra,22.87,14,0,Faible
+C001385,Sidi Slimane,22.83,18,0,Faible
+C000353,Sidi Kacem,22.83,27,0,Faible
+C001188,Khémisset,22.81,24,0,Faible
+C001022,Sidi Kacem,22.8,35,0,Faible
+C001196,Salé,22.79,21,0,Faible
+C000252,Kénitra,22.78,11,0,Faible
+C000308,Salé,22.78,36,0,Faible
+C001618,Skhirate-Témara,22.76,16,0,Faible
+C000538,Sidi Slimane,22.74,36,0,Faible
+C001267,Kénitra,22.73,31,0,Faible
+C000380,Skhirate-Témara,22.7,20,0,Faible
+C000248,Salé,22.66,19,0,Faible
+C000604,Kénitra,22.66,36,0,Faible
+C000095,Kénitra,22.65,26,0,Faible
+C000263,Salé,22.65,38,0,Faible
+C001753,Rabat,22.65,29,0,Faible
+C000841,Kénitra,22.65,31,0,Faible
+C001651,Salé,22.64,28,0,Faible
+C000333,Rabat,22.62,27,0,Faible
+C000340,Kénitra,22.61,35,0,Faible
+C001166,Rabat,22.59,15,0,Faible
+C001871,Rabat,22.56,34,0,Faible
+C001941,Salé,22.55,35,0,Faible
+C000092,Khémisset,22.54,28,0,Faible
+C001419,Sidi Kacem,22.5,20,0,Faible
+C001798,Rabat,22.48,26,0,Faible
+C001446,Kénitra,22.47,10,0,Faible
+C001430,Sidi Slimane,22.47,37,0,Faible
+C000764,Salé,22.47,12,0,Faible
+C001474,Salé,22.45,34,0,Faible
+C001346,Salé,22.44,39,0,Faible
+C000323,Rabat,22.44,28,0,Faible
+C000166,Salé,22.42,19,0,Faible
+C001775,Salé,22.4,20,0,Faible
+C001270,Rabat,22.37,15,0,Faible
+C000675,Kénitra,22.37,33,0,Faible
+C001469,Salé,22.36,28,0,Faible
+C001115,Salé,22.33,11,0,Faible
+C000381,Khémisset,22.33,15,0,Faible
+C001176,Sidi Kacem,22.28,27,0,Faible
+C000828,Rabat,22.27,20,0,Faible
+C000213,Kénitra,22.25,20,0,Faible
+C000961,Sidi Slimane,22.25,14,0,Faible
+C002017,Sidi Kacem,22.24,29,0,Faible
+C001319,Skhirate-Témara,22.23,15,0,Faible
+C000589,Khémisset,22.23,11,0,Faible
+C000759,Skhirate-Témara,22.23,21,0,Faible
+C000635,Khémisset,22.23,32,0,Faible
+C000527,Sidi Kacem,22.22,29,0,Faible
+C000536,Rabat,22.21,25,0,Faible
+C000568,Kénitra,22.21,39,0,Faible
+C001516,Kénitra,22.2,32,0,Faible
+C001785,Kénitra,22.19,21,0,Faible
+C001884,Skhirate-Témara,22.19,15,0,Faible
+C001498,Kénitra,22.17,12,0,Faible
+C001823,Skhirate-Témara,22.16,14,0,Faible
+C000776,Sidi Kacem,22.14,17,0,Faible
+C001273,Rabat,22.12,13,0,Faible
+C001576,Kénitra,22.12,35,0,Faible
+C000523,Salé,22.1,25,0,Faible
+C000763,Khémisset,22.07,26,0,Faible
+C000915,Kénitra,22.07,33,0,Faible
+C000237,Rabat,22.06,17,0,Faible
+C001939,Khémisset,22.01,38,0,Faible
+C001258,Salé,21.97,31,0,Faible
+C001458,Rabat,21.96,30,0,Faible
+C000348,Skhirate-Témara,21.96,22,0,Faible
+C001113,Sidi Kacem,21.95,17,0,Faible
+C000082,Kénitra,21.95,33,0,Faible
+C001149,Salé,21.9,17,0,Faible
+C001334,Khémisset,21.84,28,0,Faible
+C001133,Kénitra,21.84,33,0,Faible
+C000542,Skhirate-Témara,21.84,19,0,Faible
+C000993,Skhirate-Témara,21.82,11,0,Faible
+C000058,Salé,21.8,16,0,Faible
+C001283,Skhirate-Témara,21.79,33,0,Faible
+C001925,Rabat,21.78,37,0,Faible
+C001034,Skhirate-Témara,21.78,22,0,Faible
+C001751,Kénitra,21.77,26,0,Faible
+C001713,Skhirate-Témara,21.75,10,0,Faible
+C000998,Kénitra,21.75,36,0,Faible
+C001089,Salé,21.74,35,0,Faible
+C000497,Salé,21.73,33,0,Faible
+C001927,Kénitra,21.72,18,0,Faible
+C001108,Kénitra,21.71,30,0,Faible
+C000246,Rabat,21.71,27,0,Faible
+C001411,Skhirate-Témara,21.71,20,0,Faible
+C001744,Rabat,21.67,29,0,Faible
+C001765,Kénitra,21.66,20,0,Faible
+C001408,Rabat,21.63,24,0,Faible
+C001325,Rabat,21.61,27,0,Faible
+C000957,Rabat,21.58,13,0,Faible
+C000640,Rabat,21.58,37,0,Faible
+C001165,Kénitra,21.57,15,0,Faible
+C000847,Kénitra,21.57,24,0,Faible
+C000760,Rabat,21.56,17,0,Faible
+C001658,Skhirate-Témara,21.54,36,0,Faible
+C000585,Kénitra,21.53,16,0,Faible
+C001513,Rabat,21.5,20,0,Faible
+C001758,Salé,21.46,36,1,Faible
+C000358,Salé,21.46,39,0,Faible
+C000846,Rabat,21.45,18,0,Faible
+C001802,Salé,21.45,28,0,Faible
+C000484,Kénitra,21.44,15,0,Faible
+C001625,Salé,21.44,26,0,Faible
+C000152,Skhirate-Témara,21.44,22,0,Faible
+C001779,Rabat,21.41,36,0,Faible
+C001594,Kénitra,21.39,29,0,Faible
+C000630,Sidi Kacem,21.38,21,0,Faible
+C001456,Salé,21.36,19,0,Faible
+C000689,Sidi Slimane,21.36,37,0,Faible
+C001086,Rabat,21.36,14,0,Faible
+C000857,Rabat,21.35,37,0,Faible
+C000450,Skhirate-Témara,21.31,22,0,Faible
+C000059,Sidi Slimane,21.25,11,0,Faible
+C001628,Skhirate-Témara,21.24,37,0,Faible
+C001519,Salé,21.24,35,0,Faible
+C001583,Sidi Kacem,21.23,20,0,Faible
+C001067,Khémisset,21.22,24,0,Faible
+C001121,Salé,21.21,25,0,Faible
+C000481,Khémisset,21.2,20,0,Faible
+C001412,Rabat,21.2,34,0,Faible
+C000466,Sidi Kacem,21.18,16,0,Faible
+C001551,Salé,21.17,17,0,Faible
+C000480,Khémisset,21.17,37,0,Faible
+C001650,Salé,21.16,29,0,Faible
+C000199,Kénitra,21.14,15,0,Faible
+C001797,Skhirate-Témara,21.14,29,0,Faible
+C001613,Sidi Kacem,21.14,17,0,Faible
+C000133,Rabat,21.13,31,0,Faible
+C001520,Kénitra,21.1,41,0,Faible
+C001480,Rabat,21.1,10,0,Faible
+C000383,Sidi Kacem,21.09,38,0,Faible
+C000486,Salé,21.08,21,0,Faible
+C000552,Khémisset,21.03,10,0,Faible
+C000164,Kénitra,21.02,37,0,Faible
+C001627,Rabat,21.01,26,0,Faible
+C000018,Kénitra,21.01,28,0,Faible
+C000615,Sidi Kacem,21.0,24,0,Faible
+C000554,Rabat,20.99,20,0,Faible
+C000145,Khémisset,20.99,25,1,Faible
+C001979,Salé,20.98,18,0,Faible
+C002006,Khémisset,20.98,19,0,Faible
+C001475,Rabat,20.98,14,0,Faible
+C001734,Salé,20.97,13,0,Faible
+C001299,Rabat,20.97,23,0,Faible
+C001392,Sidi Kacem,20.96,10,0,Faible
+C000321,Rabat,20.96,29,0,Faible
+C001994,Rabat,20.93,37,0,Faible
+C001512,Rabat,20.92,32,0,Faible
+C000188,Salé,20.9,24,0,Faible
+C000794,Kénitra,20.9,33,0,Faible
+C000727,Khémisset,20.88,19,0,Faible
+C000970,Khémisset,20.88,18,0,Faible
+C001911,Rabat,20.87,30,0,Faible
+C000369,Kénitra,20.87,37,0,Faible
+C000870,Kénitra,20.83,23,0,Faible
+C001044,Kénitra,20.83,24,0,Faible
+C000916,Khémisset,20.81,33,0,Faible
+C001522,Kénitra,20.8,20,0,Faible
+C000247,Salé,20.79,18,0,Faible
+C000487,Kénitra,20.79,19,0,Faible
+C001288,Kénitra,20.79,36,0,Faible
+C000541,Khémisset,20.77,15,0,Faible
+C000006,Kénitra,20.75,31,0,Faible
+C000483,Khémisset,20.75,34,0,Faible
+C001697,Kénitra,20.75,29,0,Faible
+C001626,Rabat,20.74,15,0,Faible
+C000305,Kénitra,20.72,39,0,Faible
+C000116,Skhirate-Témara,20.71,35,0,Faible
+C000693,Salé,20.69,14,0,Faible
+C001209,Khémisset,20.68,27,0,Faible
+C001689,Kénitra,20.68,23,0,Faible
+C000654,Rabat,20.66,21,0,Faible
+C001496,Khémisset,20.66,33,0,Faible
+C000900,Salé,20.62,28,0,Faible
+C000931,Rabat,20.62,35,0,Faible
+C001818,Sidi Slimane,20.61,32,0,Faible
+C001081,Kénitra,20.58,29,0,Faible
+C000716,Rabat,20.58,29,0,Faible
+C000214,Skhirate-Témara,20.57,28,0,Faible
+C001141,Salé,20.55,37,0,Faible
+C001357,Khémisset,20.55,12,0,Faible
+C000705,Skhirate-Témara,20.55,20,0,Faible
+C000402,Khémisset,20.54,10,0,Faible
+C001459,Kénitra,20.52,34,0,Faible
+C000750,Rabat,20.51,14,0,Faible
+C001863,Rabat,20.5,23,0,Faible
+C001739,Salé,20.49,14,0,Faible
+C001795,Kénitra,20.49,11,0,Faible
+C000372,Kénitra,20.45,16,0,Faible
+C000212,Salé,20.41,24,0,Faible
+C001393,Kénitra,20.4,33,0,Faible
+C000074,Salé,20.38,10,0,Faible
+C001333,Salé,20.37,32,0,Faible
+C001741,Sidi Kacem,20.36,15,0,Faible
+C000311,Kénitra,20.36,30,0,Faible
+C001099,Rabat,20.33,20,0,Faible
+C001595,Kénitra,20.31,12,0,Faible
+C000605,Rabat,20.31,27,0,Faible
+C001342,Salé,20.29,20,0,Faible
+C000765,Salé,20.28,13,0,Faible
+C001210,Salé,20.28,20,0,Faible
+C001494,Khémisset,20.23,14,0,Faible
+C001614,Salé,20.23,39,0,Faible
+C001397,Salé,20.22,11,0,Faible
+C000294,Sidi Slimane,20.21,15,0,Faible
+C000404,Salé,20.21,10,0,Faible
+C001012,Kénitra,20.2,12,0,Faible
+C001117,Sidi Kacem,20.19,37,0,Faible
+C000351,Kénitra,20.17,39,0,Faible
+C001940,Salé,20.16,21,0,Faible
+C001720,Skhirate-Témara,20.16,21,0,Faible
+C000512,Skhirate-Témara,20.16,19,0,Faible
+C001212,Skhirate-Témara,20.16,25,0,Faible
+C001928,Salé,20.15,39,0,Faible
+C001897,Rabat,20.15,22,0,Faible
+C001502,Salé,20.14,30,0,Faible
+C001335,Rabat,20.12,14,0,Faible
+C000928,Rabat,20.1,29,0,Faible
+C002003,Kénitra,20.09,34,0,Faible
+C000035,Skhirate-Témara,20.09,28,0,Faible
+C001298,Sidi Kacem,20.09,30,0,Faible
+C001771,Khémisset,20.08,28,0,Faible
+C000322,Kénitra,20.05,23,0,Faible
+C000905,Skhirate-Témara,20.05,32,0,Faible
+C000302,Kénitra,20.04,16,0,Faible
+C001094,Kénitra,20.03,32,0,Faible
+C001495,Skhirate-Témara,20.03,35,0,Faible
+C000570,Salé,20.01,19,0,Faible
+C000505,Salé,20.0,37,0,Faible
+C000208,Kénitra,20.0,28,0,Faible
+C001330,Skhirate-Témara,19.99,29,0,Faible
+C000114,Sidi Slimane,19.98,16,0,Faible
+C001715,Salé,19.97,28,0,Faible
+C001591,Rabat,19.97,38,0,Faible
+C000039,Rabat,19.96,19,0,Faible
+C001297,Salé,19.96,24,0,Faible
+C001930,Kénitra,19.96,16,0,Faible
+C001571,Rabat,19.96,31,0,Faible
+C000290,Skhirate-Témara,19.94,28,0,Faible
+C001162,Kénitra,19.93,33,0,Faible
+C001240,Kénitra,19.92,33,0,Faible
+C001527,Kénitra,19.92,22,0,Faible
+C001844,Salé,19.9,19,0,Faible
+C000433,Salé,19.89,26,0,Faible
+C001568,Rabat,19.88,31,0,Faible
+C000647,Skhirate-Témara,19.87,19,0,Faible
+C000156,Salé,19.87,37,0,Faible
+C000784,Rabat,19.84,25,0,Faible
+C001599,Khémisset,19.82,13,0,Faible
+C000192,Rabat,19.8,11,0,Faible
+C000664,Rabat,19.8,11,0,Faible
+C000852,Skhirate-Témara,19.79,25,0,Faible
+C001147,Khémisset,19.78,16,0,Faible
+C001554,Rabat,19.77,30,0,Faible
+C000453,Rabat,19.77,10,0,Faible
+C000020,Sidi Kacem,19.76,39,0,Faible
+C000226,Kénitra,19.74,20,0,Faible
+C001685,Salé,19.74,20,0,Faible
+C001352,Khémisset,19.74,20,0,Faible
+C000963,Skhirate-Témara,19.73,27,0,Faible
+C001098,Kénitra,19.72,38,0,Faible
+C000910,Skhirate-Témara,19.72,24,0,Faible
+C000203,Khémisset,19.71,36,0,Faible
+C001659,Sidi Kacem,19.7,38,0,Faible
+C001796,Rabat,19.68,19,0,Faible
+C000717,Rabat,19.68,19,0,Faible
+C000387,Kénitra,19.67,22,0,Faible
+C000085,Skhirate-Témara,19.65,31,0,Faible
+C000429,Skhirate-Témara,19.64,13,0,Faible
+C001585,Kénitra,19.63,35,0,Faible
+C000279,Kénitra,19.63,21,0,Faible
+C001384,Salé,19.63,13,0,Faible
+C000962,Kénitra,19.63,16,0,Faible
+C001234,Skhirate-Témara,19.59,21,0,Faible
+C000537,Skhirate-Témara,19.59,37,0,Faible
+C001562,Kénitra,19.59,33,0,Faible
+C001895,Salé,19.59,28,0,Faible
+C000865,Kénitra,19.56,35,0,Faible
+C000175,Skhirate-Témara,19.56,13,0,Faible
+C001410,Khémisset,19.55,18,0,Faible
+C000941,Rabat,19.55,20,0,Faible
+C000507,Salé,19.54,21,0,Faible
+C001528,Rabat,19.54,10,0,Faible
+C000171,Salé,19.53,20,0,Faible
+C000581,Rabat,19.52,18,0,Faible
+C000073,Rabat,19.5,29,0,Faible
+C001152,Skhirate-Témara,19.49,22,0,Faible
+C000075,Rabat,19.48,36,0,Faible
+C000749,Salé,19.48,17,0,Faible
+C001371,Khémisset,19.47,30,0,Faible
+C000588,Salé,19.44,15,0,Faible
+C000155,Rabat,19.43,16,0,Faible
+C000745,Kénitra,19.41,30,0,Faible
+C000592,Skhirate-Témara,19.4,10,0,Faible
+C001773,Rabat,19.4,33,0,Faible
+C001544,Skhirate-Témara,19.39,36,0,Faible
+C000079,Rabat,19.38,25,0,Faible
+C000744,Skhirate-Témara,19.37,38,0,Faible
+C001521,Salé,19.35,38,0,Faible
+C000119,Salé,19.34,38,0,Faible
+C001826,Salé,19.3,11,0,Faible
+C001836,Kénitra,19.3,36,0,Faible
+C001692,Skhirate-Témara,19.28,34,0,Faible
+C000168,Salé,19.28,11,0,Faible
+C000157,Sidi Kacem,19.28,36,0,Faible
+C001248,Salé,19.24,18,0,Faible
+C001262,Rabat,19.23,14,0,Faible
+C001132,Rabat,19.23,18,0,Faible
+C001471,Rabat,19.21,30,0,Faible
+C001610,Kénitra,19.19,37,0,Faible
+C001726,Kénitra,19.18,12,0,Faible
+C000056,Kénitra,19.16,31,0,Faible
+C001274,Rabat,19.15,33,0,Faible
+C000713,Salé,19.14,35,0,Faible
+C000790,Rabat,19.14,29,0,Faible
+C000181,Sidi Kacem,19.13,30,0,Faible
+C001912,Kénitra,19.12,19,0,Faible
+C000663,Salé,19.12,30,0,Faible
+C000698,Sidi Kacem,19.11,21,0,Faible
+C001523,Rabat,19.1,12,0,Faible
+C001490,Kénitra,19.09,18,0,Faible
+C000525,Kénitra,19.06,19,0,Faible
+C001145,Rabat,19.03,26,0,Faible
+C000967,Rabat,19.03,24,0,Faible
+C001102,Sidi Slimane,19.02,28,0,Faible
+C001038,Skhirate-Témara,19.0,24,0,Faible
+C001301,Salé,18.99,10,1,Faible
+C001156,Salé,18.99,31,0,Faible
+C000443,Rabat,18.98,35,0,Faible
+C001536,Khémisset,18.95,32,0,Faible
+C000898,Sidi Slimane,18.94,34,0,Faible
+C000459,Rabat,18.93,25,0,Faible
+C001304,Salé,18.92,30,0,Faible
+C000162,Kénitra,18.9,30,0,Faible
+C000883,Salé,18.88,11,0,Faible
+C000726,Khémisset,18.88,15,0,Faible
+C001130,Rabat,18.87,37,0,Faible
+C000996,Kénitra,18.86,13,0,Faible
+C001724,Kénitra,18.86,21,0,Faible
+C001232,Sidi Kacem,18.86,18,0,Faible
+C001247,Rabat,18.86,36,0,Faible
+C001261,Salé,18.86,34,0,Faible
+C000050,Skhirate-Témara,18.85,11,0,Faible
+C001733,Khémisset,18.84,23,0,Faible
+C001386,Khémisset,18.84,35,0,Faible
+C002026,Skhirate-Témara,18.84,16,0,Faible
+C001606,Salé,18.83,20,0,Faible
+C001170,Rabat,18.81,16,0,Faible
+C001399,Skhirate-Témara,18.81,20,0,Faible
+C000987,Skhirate-Témara,18.76,35,0,Faible
+C001999,Rabat,18.73,17,0,Faible
+C001237,Khémisset,18.73,21,0,Faible
+C000738,Sidi Kacem,18.72,11,0,Faible
+C001015,Skhirate-Témara,18.72,38,0,Faible
+C000490,Sidi Slimane,18.72,31,0,Faible
+C000306,Sidi Kacem,18.71,10,0,Faible
+C001901,Salé,18.69,10,0,Faible
+C001532,Salé,18.68,14,0,Faible
+C001546,Rabat,18.65,24,0,Faible
+C001579,Kénitra,18.61,35,0,Faible
+C001193,Rabat,18.61,34,0,Faible
+C001199,Salé,18.6,36,0,Faible
+C000634,Salé,18.6,32,0,Faible
+C000037,Rabat,18.6,37,0,Faible
+C001164,Kénitra,18.59,24,0,Faible
+C000451,Khémisset,18.59,33,0,Faible
+C001001,Kénitra,18.59,22,0,Faible
+C000303,Kénitra,18.59,23,0,Faible
+C000979,Salé,18.58,30,0,Faible
+C001354,Rabat,18.56,31,0,Faible
+C000432,Khémisset,18.55,38,0,Faible
+C001314,Rabat,18.54,24,0,Faible
+C001277,Kénitra,18.52,18,0,Faible
+C000860,Salé,18.51,19,0,Faible
+C001026,Kénitra,18.49,22,0,Faible
+C000650,Skhirate-Témara,18.44,11,0,Faible
+C001269,Skhirate-Témara,18.44,30,0,Faible
+C000221,Skhirate-Témara,18.43,37,0,Faible
+C000234,Salé,18.42,21,0,Faible
+C001849,Sidi Kacem,18.41,28,0,Faible
+C000737,Skhirate-Témara,18.39,24,0,Faible
+C001128,Salé,18.37,36,0,Faible
+C001479,Sidi Kacem,18.36,32,0,Faible
+C000985,Kénitra,18.36,17,0,Faible
+C001198,Khémisset,18.35,33,0,Faible
+C000118,Rabat,18.35,12,0,Faible
+C000131,Salé,18.35,30,0,Faible
+C001282,Salé,18.34,33,0,Faible
+C001194,Skhirate-Témara,18.34,17,0,Faible
+C000331,Skhirate-Témara,18.28,32,0,Faible
+C001882,Sidi Kacem,18.22,35,0,Faible
+C000755,Kénitra,18.19,33,0,Faible
+C000129,Khémisset,18.15,19,0,Faible
+C000748,Salé,18.15,14,0,Faible
+C001873,Skhirate-Témara,18.15,32,0,Faible
+C001338,Rabat,18.14,27,0,Faible
+C000823,Khémisset,18.13,31,0,Faible
+C000154,Rabat,18.12,28,0,Faible
+C000151,Sidi Slimane,18.1,31,0,Faible
+C000048,Salé,18.09,36,0,Faible
+C000694,Rabat,18.09,15,0,Faible
+C000063,Kénitra,18.08,35,0,Faible
+C000231,Kénitra,18.08,24,0,Faible
+C001059,Rabat,18.07,21,0,Faible
+C000416,Khémisset,18.05,22,0,Faible
+C000153,Salé,18.05,35,0,Faible
+C000665,Salé,18.02,13,0,Faible
+C001337,Kénitra,18.02,39,0,Faible
+C001766,Sidi Kacem,18.0,16,0,Faible
+C001635,Rabat,17.98,29,0,Faible
+C000502,Salé,17.96,25,0,Faible
+C000449,Sidi Kacem,17.95,24,0,Faible
+C000710,Salé,17.95,31,0,Faible
+C001792,Salé,17.94,15,0,Faible
+C000238,Skhirate-Témara,17.94,39,0,Faible
+C001366,Rabat,17.93,10,0,Faible
+C001457,Skhirate-Témara,17.93,24,0,Faible
+C000019,Salé,17.91,35,0,Faible
+C001010,Sidi Kacem,17.91,15,0,Faible
+C001760,Kénitra,17.91,16,0,Faible
+C001815,Skhirate-Témara,17.89,39,0,Faible
+C001958,Khémisset,17.89,29,0,Faible
+C001822,Salé,17.88,14,0,Faible
+C000566,Skhirate-Témara,17.87,23,0,Faible
+C000310,Rabat,17.86,22,0,Faible
+C000600,Rabat,17.86,13,0,Faible
+C000265,Salé,17.85,12,0,Faible
+C001171,Kénitra,17.84,34,0,Faible
+C001466,Skhirate-Témara,17.8,12,0,Faible
+C000583,Khémisset,17.78,25,0,Faible
+C001460,Khémisset,17.76,20,0,Faible
+C000278,Salé,17.75,16,0,Faible
+C001405,Rabat,17.7,15,0,Faible
+C000398,Kénitra,17.7,11,0,Faible
+C001750,Rabat,17.66,16,0,Faible
+C001071,Salé,17.66,39,0,Faible
+C000795,Kénitra,17.65,30,0,Faible
+C001578,Sidi Kacem,17.64,33,0,Faible
+C000495,Salé,17.62,38,0,Faible
+C000861,Salé,17.62,23,0,Faible
+C001621,Salé,17.62,36,0,Faible
+C001931,Kénitra,17.61,28,0,Faible
+C000273,Salé,17.6,40,0,Faible
+C000743,Rabat,17.6,31,0,Faible
+C000250,Rabat,17.58,29,0,Faible
+C001963,Kénitra,17.58,26,0,Faible
+C000109,Salé,17.57,39,0,Faible
+C001623,Salé,17.56,36,0,Faible
+C000319,Salé,17.55,34,0,Faible
+C000831,Skhirate-Témara,17.55,34,0,Faible
+C000826,Rabat,17.55,30,0,Faible
+C000810,Skhirate-Témara,17.51,20,0,Faible
+C000940,Kénitra,17.51,14,0,Faible
+C000464,Skhirate-Témara,17.51,17,0,Faible
+C000978,Skhirate-Témara,17.51,16,0,Faible
+C000812,Rabat,17.5,37,0,Faible
+C001224,Skhirate-Témara,17.5,38,0,Faible
+C001243,Salé,17.5,15,0,Faible
+C000270,Rabat,17.49,26,0,Faible
+C000292,Sidi Kacem,17.45,25,0,Faible
+C001429,Salé,17.45,21,0,Faible
+C000524,Kénitra,17.44,25,0,Faible
+C001918,Salé,17.44,31,0,Faible
+C000814,Skhirate-Témara,17.43,29,0,Faible
+C000612,Rabat,17.43,18,0,Faible
+C001281,Kénitra,17.39,34,0,Faible
+C000291,Skhirate-Témara,17.39,22,0,Faible
+C001409,Kénitra,17.39,19,0,Faible
+C000316,Skhirate-Témara,17.36,11,0,Faible
+C001533,Skhirate-Témara,17.33,26,0,Faible
+C001225,Skhirate-Témara,17.33,37,0,Faible
+C000359,Kénitra,17.31,36,0,Faible
+C000418,Skhirate-Témara,17.3,22,0,Faible
+C001068,Rabat,17.29,31,0,Faible
+C000111,Sidi Slimane,17.28,24,0,Faible
+C001666,Rabat,17.27,17,0,Faible
+C000712,Rabat,17.27,30,0,Faible
+C000682,Kénitra,17.25,20,0,Faible
+C000447,Skhirate-Témara,17.25,26,0,Faible
+C000674,Skhirate-Témara,17.23,36,0,Faible
+C001021,Salé,17.22,26,0,Faible
+C000491,Salé,17.22,23,0,Faible
+C001255,Salé,17.21,23,0,Faible
+C000648,Salé,17.21,10,0,Faible
+C001937,Kénitra,17.2,11,0,Faible
+C001341,Kénitra,17.2,10,0,Faible
+C001903,Skhirate-Témara,17.2,32,0,Faible
+C000545,Khémisset,17.19,37,0,Faible
+C001843,Sidi Slimane,17.16,10,0,Faible
+C001127,Skhirate-Témara,17.16,39,0,Faible
+C000958,Kénitra,17.16,25,0,Faible
+C000980,Sidi Slimane,17.15,34,0,Faible
+C000923,Salé,17.13,16,0,Faible
+C001681,Salé,17.13,30,0,Faible
+C001253,Salé,17.12,17,0,Faible
+C001235,Kénitra,17.11,14,0,Faible
+C000130,Rabat,17.11,11,0,Faible
+C000834,Salé,17.1,34,0,Faible
+C000220,Skhirate-Témara,17.1,23,0,Faible
+C000345,Salé,17.1,36,0,Faible
+C001535,Rabat,17.09,35,0,Faible
+C000932,Khémisset,17.07,34,0,Faible
+C001588,Salé,17.05,22,0,Faible
+C001855,Salé,17.04,12,0,Faible
+C001663,Rabat,17.02,38,0,Faible
+C001907,Sidi Kacem,17.02,36,0,Faible
+C001090,Salé,17.0,16,0,Faible
+C000955,Rabat,16.99,22,0,Faible
+C000577,Kénitra,16.99,32,0,Faible
+C000205,Rabat,16.98,22,0,Faible
+C001612,Rabat,16.98,16,0,Faible
+C001698,Skhirate-Témara,16.97,25,0,Faible
+C000084,Kénitra,16.95,23,0,Faible
+C000448,Salé,16.95,31,0,Faible
+C000867,Salé,16.95,30,0,Faible
+C000722,Rabat,16.93,10,0,Faible
+C001552,Sidi Slimane,16.91,22,0,Faible
+C001400,Rabat,16.9,10,0,Faible
+C001633,Salé,16.89,37,0,Faible
+C000126,Salé,16.89,13,0,Faible
+C000899,Khémisset,16.87,12,0,Faible
+C000687,Salé,16.86,17,0,Faible
+C000602,Rabat,16.85,32,0,Faible
+C000960,Sidi Slimane,16.84,14,0,Faible
+C000042,Kénitra,16.84,31,0,Faible
+C001363,Rabat,16.83,15,0,Faible
+C000315,Kénitra,16.83,35,0,Faible
+C001275,Kénitra,16.75,23,0,Faible
+C001082,Skhirate-Témara,16.72,23,0,Faible
+C000125,Rabat,16.71,30,0,Faible
+C001675,Kénitra,16.67,32,0,Faible
+C001257,Rabat,16.67,18,0,Faible
+C000562,Kénitra,16.66,26,0,Faible
+C001596,Rabat,16.66,36,0,Faible
+C000984,Salé,16.66,37,0,Faible
+C000083,Salé,16.65,35,0,Faible
+C001180,Sidi Kacem,16.64,30,0,Faible
+C001049,Rabat,16.64,10,0,Faible
+C001146,Skhirate-Témara,16.59,15,0,Faible
+C000425,Sidi Kacem,16.59,11,0,Faible
+C000667,Rabat,16.58,27,0,Faible
+C001829,Kénitra,16.57,15,0,Faible
+C000773,Kénitra,16.56,21,0,Faible
+C001236,Sidi Slimane,16.55,29,0,Faible
+C001653,Skhirate-Témara,16.54,24,0,Faible
+C000825,Rabat,16.52,26,0,Faible
+C000281,Skhirate-Témara,16.49,14,0,Faible
+C000441,Skhirate-Témara,16.49,15,0,Faible
+C001138,Kénitra,16.46,23,0,Faible
+C000801,Rabat,16.46,11,0,Faible
+C000926,Kénitra,16.44,24,0,Faible
+C000559,Salé,16.43,22,0,Faible
+C001914,Sidi Kacem,16.4,13,0,Faible
+C001915,Skhirate-Témara,16.4,37,0,Faible
+C001952,Kénitra,16.4,15,0,Faible
+C001175,Kénitra,16.39,28,0,Faible
+C000489,Salé,16.39,24,0,Faible
+C001007,Sidi Slimane,16.38,39,0,Faible
+C000637,Khémisset,16.38,36,0,Faible
+C000128,Salé,16.37,32,0,Faible
+C001215,Salé,16.35,16,0,Faible
+C000392,Salé,16.34,16,0,Faible
+C000949,Rabat,16.33,22,0,Faible
+C001217,Skhirate-Témara,16.32,28,0,Faible
+C001183,Salé,16.31,13,0,Faible
+C000516,Salé,16.29,34,0,Faible
+C001774,Rabat,16.28,15,0,Faible
+C001742,Rabat,16.28,12,0,Faible
+C000632,Rabat,16.28,12,0,Faible
+C000123,Rabat,16.25,14,0,Faible
+C000598,Sidi Slimane,16.24,18,0,Faible
+C000016,Rabat,16.23,12,0,Faible
+C001178,Skhirate-Témara,16.2,25,0,Faible
+C000183,Rabat,16.2,29,0,Faible
+C001968,Skhirate-Témara,16.19,18,0,Faible
+C000262,Sidi Slimane,16.18,12,0,Faible
+C001690,Salé,16.14,21,0,Faible
+C001851,Sidi Slimane,16.14,33,0,Faible
+C000365,Kénitra,16.14,39,0,Faible
+C000820,Rabat,16.13,24,0,Faible
+C000148,Kénitra,16.13,11,0,Faible
+C000680,Rabat,16.12,19,0,Faible
+C001202,Sidi Slimane,16.08,16,0,Faible
+C000186,Rabat,16.08,19,0,Faible
+C001890,Skhirate-Témara,16.06,25,0,Faible
+C001230,Salé,16.06,35,0,Faible
+C001014,Skhirate-Témara,16.06,23,0,Faible
+C000842,Khémisset,16.05,18,0,Faible
+C000913,Sidi Slimane,16.04,15,0,Faible
+C000952,Sidi Kacem,16.04,27,0,Faible
+C001841,Rabat,16.03,13,0,Faible
+C000754,Rabat,16.02,27,0,Faible
+C000274,Kénitra,16.0,38,0,Faible
+C000888,Rabat,15.99,11,0,Faible
+C000385,Salé,15.99,27,0,Faible
+C000678,Salé,15.98,37,0,Faible
+C000587,Sidi Slimane,15.97,21,0,Faible
+C001208,Khémisset,15.97,24,0,Faible
+C000809,Rabat,15.96,38,0,Faible
+C001481,Khémisset,15.96,33,0,Faible
+C000049,Salé,15.95,21,0,Faible
+C000930,Kénitra,15.95,28,0,Faible
+C000176,Rabat,15.94,11,0,Faible
+C001784,Rabat,15.92,36,0,Faible
+C001700,Salé,15.92,25,0,Faible
+C001107,Khémisset,15.91,15,0,Faible
+C000548,Salé,15.91,22,0,Faible
+C000160,Salé,15.91,25,0,Faible
+C000099,Salé,15.9,31,0,Faible
+C001972,Kénitra,15.9,30,0,Faible
+C000866,Sidi Kacem,15.9,18,0,Faible
+C000917,Khémisset,15.88,24,0,Faible
+C001318,Salé,15.87,12,0,Faible
+C000939,Salé,15.87,10,0,Faible
+C000692,Sidi Slimane,15.84,30,0,Faible
+C001545,Skhirate-Témara,15.84,13,0,Faible
+C000182,Rabat,15.84,14,0,Faible
+C000258,Skhirate-Témara,15.82,22,0,Faible
+C000170,Salé,15.8,29,0,Faible
+C001752,Sidi Kacem,15.8,20,0,Faible
+C000224,Rabat,15.8,31,0,Faible
+C001137,Salé,15.76,14,0,Faible
+C000112,Rabat,15.75,25,0,Faible
+C001668,Kénitra,15.74,31,0,Faible
+C000296,Skhirate-Témara,15.73,11,0,Faible
+C001221,Rabat,15.71,14,0,Faible
+C001835,Kénitra,15.7,35,0,Faible
+C001006,Kénitra,15.68,18,0,Faible
+C000609,Skhirate-Témara,15.68,33,0,Faible
+C000817,Kénitra,15.66,23,0,Faible
+C001016,Rabat,15.65,39,0,Faible
+C001989,Kénitra,15.63,20,0,Faible
+C000159,Khémisset,15.6,35,0,Faible
+C000209,Kénitra,15.58,34,0,Faible
+C000671,Salé,15.58,30,0,Faible
+C000886,Salé,15.56,17,0,Faible
+C001380,Skhirate-Témara,15.56,26,0,Faible
+C001421,Kénitra,15.56,22,0,Faible
+C001735,Skhirate-Témara,15.55,32,0,Faible
+C001075,Kénitra,15.53,16,0,Faible
+C001278,Salé,15.5,26,0,Faible
+C000513,Rabat,15.49,31,0,Faible
+C001350,Rabat,15.48,20,0,Faible
+C000948,Sidi Kacem,15.47,33,0,Faible
+C000394,Salé,15.47,20,0,Faible
+C001965,Salé,15.46,25,0,Faible
+C001856,Rabat,15.45,25,0,Faible
+C000498,Salé,15.44,12,0,Faible
+C000241,Kénitra,15.43,31,0,Faible
+C000242,Skhirate-Témara,15.39,15,0,Faible
+C000553,Skhirate-Témara,15.39,38,0,Faible
+C001143,Kénitra,15.38,26,0,Faible
+C000430,Kénitra,15.38,27,0,Faible
+C001926,Kénitra,15.38,18,0,Faible
+C000189,Khémisset,15.34,37,0,Faible
+C000877,Rabat,15.33,22,0,Faible
+C000139,Sidi Kacem,15.33,34,0,Faible
+C000732,Skhirate-Témara,15.33,22,0,Faible
+C001974,Salé,15.33,17,0,Faible
+C000096,Kénitra,15.32,12,0,Faible
+C001703,Rabat,15.32,31,0,Faible
+C001582,Rabat,15.31,28,0,Faible
+C000657,Sidi Slimane,15.3,13,0,Faible
+C000651,Khémisset,15.29,18,0,Faible
+C001896,Rabat,15.29,25,0,Faible
+C000332,Kénitra,15.28,36,0,Faible
+C000140,Skhirate-Témara,15.28,33,0,Faible
+C001368,Rabat,15.27,18,0,Faible
+C001684,Skhirate-Témara,15.26,16,0,Faible
+C000906,Kénitra,15.26,34,0,Faible
+C001186,Sidi Kacem,15.25,12,0,Faible
+C000742,Salé,15.21,15,0,Faible
+C000626,Kénitra,15.19,25,0,Faible
+C000256,Rabat,15.18,22,0,Faible
+C000143,Salé,15.17,16,0,Faible
+C001880,Kénitra,15.16,27,0,Faible
+C000115,Skhirate-Témara,15.16,35,0,Faible
+C001036,Skhirate-Témara,15.14,39,0,Faible
+C001372,Salé,15.14,19,0,Faible
+C000697,Sidi Kacem,15.13,21,0,Faible
+C000804,Skhirate-Témara,15.11,37,0,Faible
+C001204,Salé,15.1,21,0,Faible
+C000616,Kénitra,15.1,13,0,Faible
+C001340,Rabat,15.09,28,0,Faible
+C001290,Kénitra,15.07,33,0,Faible
+C000815,Kénitra,15.06,12,0,Faible
+C000239,Khémisset,15.05,28,0,Faible
+C001905,Rabat,15.04,12,0,Faible
+C000792,Salé,15.03,14,0,Faible
+C001970,Skhirate-Témara,15.03,39,0,Faible
+C000549,Kénitra,15.01,23,0,Faible
+C000595,Khémisset,14.99,23,0,Faible
+C001804,Salé,14.99,15,0,Faible
+C001793,Salé,14.98,29,0,Faible
+C000556,Salé,14.98,32,0,Faible
+C001303,Sidi Kacem,14.97,22,0,Faible
+C001095,Kénitra,14.94,32,0,Faible
+C001778,Skhirate-Témara,14.91,37,0,Faible
+C000440,Rabat,14.9,28,0,Faible
+C000297,Rabat,14.88,10,0,Faible
+C001345,Kénitra,14.87,15,0,Faible
+C000779,Kénitra,14.84,23,0,Faible
+C000230,Sidi Slimane,14.82,26,0,Faible
+C000774,Skhirate-Témara,14.81,10,0,Faible
+C001331,Salé,14.8,15,0,Faible
+C001407,Salé,14.8,31,0,Faible
+C000679,Rabat,14.8,17,0,Faible
+C001122,Sidi Kacem,14.78,16,0,Faible
+C000531,Rabat,14.76,23,0,Faible
+C001657,Salé,14.72,36,0,Faible
+C000312,Salé,14.7,25,0,Faible
+C001899,Salé,14.69,23,0,Faible
+C001271,Rabat,14.67,25,0,Faible
+C000132,Khémisset,14.67,38,0,Faible
+C000098,Kénitra,14.65,19,0,Faible
+C000623,Salé,14.64,28,0,Faible
+C001174,Kénitra,14.64,23,0,Faible
+C001050,Salé,14.62,25,0,Faible
+C000337,Skhirate-Témara,14.62,10,0,Faible
+C001996,Rabat,14.58,33,0,Faible
+C001242,Salé,14.52,16,0,Faible
+C001118,Khémisset,14.52,29,0,Faible
+C001869,Salé,14.51,30,0,Faible
+C000599,Khémisset,14.51,12,0,Faible
+C000620,Rabat,14.5,14,0,Faible
+C002009,Skhirate-Témara,14.48,16,0,Faible
+C001425,Rabat,14.47,19,0,Faible
+C000411,Skhirate-Témara,14.43,20,0,Faible
+C000055,Rabat,14.43,27,0,Faible
+C000735,Skhirate-Témara,14.43,29,0,Faible
+C001112,Rabat,14.42,21,0,Faible
+C001172,Kénitra,14.38,15,0,Faible
+C001499,Salé,14.38,39,0,Faible
+C001076,Sidi Kacem,14.38,18,0,Faible
+C000822,Khémisset,14.35,22,0,Faible
+C000603,Kénitra,14.34,23,0,Faible
+C001343,Skhirate-Témara,14.33,22,0,Faible
+C000927,Kénitra,14.33,18,0,Faible
+C000113,Rabat,14.33,14,0,Faible
+C001661,Salé,14.31,14,0,Faible
+C000366,Rabat,14.3,29,0,Faible
+C000992,Sidi Slimane,14.3,19,0,Faible
+C000376,Khémisset,14.29,21,0,Faible
+C001858,Sidi Kacem,14.28,31,0,Faible
+C000933,Salé,14.27,26,0,Faible
+C000785,Rabat,14.25,24,0,Faible
+C000499,Kénitra,14.23,38,0,Faible
+C000280,Skhirate-Témara,14.22,30,1,Faible
+C000286,Sidi Slimane,14.21,19,0,Faible
+C001447,Rabat,14.2,16,0,Faible
+C000233,Rabat,14.19,12,0,Faible
+C000068,Rabat,14.17,30,0,Faible
+C001817,Khémisset,14.11,23,0,Faible
+C001311,Salé,14.1,33,0,Faible
+C001830,Kénitra,14.08,18,0,Faible
+C001047,Skhirate-Témara,14.04,39,0,Faible
+C001308,Rabat,14.01,16,0,Faible
+C000028,Kénitra,14.0,35,0,Faible
+C001664,Salé,14.0,15,0,Faible
+C000462,Khémisset,13.98,17,0,Faible
+C002022,Sidi Kacem,13.98,33,0,Faible
+C001123,Salé,13.97,19,0,Faible
+C001142,Kénitra,13.97,27,0,Faible
+C001398,Khémisset,13.95,21,0,Faible
+C002004,Rabat,13.94,17,0,Faible
+C001205,Salé,13.93,32,0,Faible
+C001609,Sidi Kacem,13.91,23,0,Faible
+C000662,Salé,13.9,19,0,Faible
+C001878,Sidi Slimane,13.9,15,0,Faible
+C001800,Skhirate-Témara,13.89,20,0,Faible
+C001649,Rabat,13.88,17,0,Faible
+C001213,Rabat,13.88,31,0,Faible
+C000245,Rabat,13.87,19,0,Faible
+C000436,Skhirate-Témara,13.86,17,0,Faible
+C000197,Kénitra,13.86,28,0,Faible
+C000854,Rabat,13.81,26,0,Faible
+C001669,Khémisset,13.78,15,0,Faible
+C001070,Salé,13.75,30,0,Faible
+C000593,Sidi Kacem,13.74,22,0,Faible
+C001361,Kénitra,13.73,31,0,Faible
+C001671,Kénitra,13.73,35,0,Faible
+C001239,Salé,13.72,11,0,Faible
+C001833,Skhirate-Témara,13.71,13,0,Faible
+C001125,Kénitra,13.7,22,0,Faible
+C001727,Sidi Kacem,13.7,19,0,Faible
+C000688,Rabat,13.69,13,0,Faible
+C000336,Khémisset,13.68,25,0,Faible
+C000579,Rabat,13.67,22,0,Faible
+C001959,Kénitra,13.65,19,0,Faible
+C000493,Rabat,13.65,15,0,Faible
+C000471,Salé,13.64,29,0,Faible
+C001701,Kénitra,13.64,19,0,Faible
+C001655,Rabat,13.62,14,0,Faible
+C001060,Sidi Kacem,13.62,21,0,Faible
+C001353,Khémisset,13.61,11,0,Faible
+C001886,Khémisset,13.61,18,0,Faible
+C000645,Rabat,13.6,10,0,Faible
+C000190,Kénitra,13.59,23,0,Faible
+C000012,Skhirate-Témara,13.58,22,0,Faible
+C000108,Salé,13.58,14,0,Faible
+C001032,Kénitra,13.57,16,0,Faible
+C000046,Rabat,13.54,20,0,Faible
+C001580,Kénitra,13.53,22,0,Faible
+C001431,Kénitra,13.53,26,0,Faible
+C000862,Kénitra,13.51,38,0,Faible
+C001491,Skhirate-Témara,13.5,31,0,Faible
+C000780,Skhirate-Témara,13.49,23,0,Faible
+C000935,Kénitra,13.48,30,0,Faible
+C001556,Salé,13.48,37,0,Faible
+C000707,Skhirate-Témara,13.44,16,0,Faible
+C001046,Rabat,13.44,15,0,Faible
+C001382,Kénitra,13.43,13,0,Faible
+C001962,Sidi Slimane,13.39,16,0,Faible
+C001531,Khémisset,13.38,26,0,Faible
+C001660,Sidi Kacem,13.37,32,0,Faible
+C001211,Skhirate-Témara,13.35,27,0,Faible
+C001672,Kénitra,13.33,21,0,Faible
+C000793,Kénitra,13.32,17,0,Faible
+C000117,Kénitra,13.32,11,0,Faible
+C001069,Sidi Kacem,13.3,26,0,Faible
+C000591,Salé,13.3,13,0,Faible
+C001373,Rabat,13.29,18,0,Faible
+C000912,Skhirate-Témara,13.26,30,0,Faible
+C000146,Rabat,13.25,11,0,Faible
+C000405,Salé,13.24,18,0,Faible
+C000988,Kénitra,13.22,11,0,Faible
+C000102,Kénitra,13.18,19,0,Faible
+C000283,Skhirate-Témara,13.17,23,0,Faible
+C001055,Skhirate-Témara,13.14,10,0,Faible
+C001035,Kénitra,13.11,35,0,Faible
+C000733,Skhirate-Témara,13.09,22,0,Faible
+C001885,Kénitra,13.05,28,0,Faible
+C000864,Kénitra,13.05,36,0,Faible
+C001077,Khémisset,13.04,36,0,Faible
+C001831,Kénitra,13.03,17,0,Faible
+C000569,Rabat,13.01,31,0,Faible
+C000360,Salé,13.01,18,0,Faible
+C000914,Rabat,12.99,19,0,Faible
+C000431,Khémisset,12.97,11,0,Faible
+C000266,Sidi Slimane,12.97,23,0,Faible
+C001770,Kénitra,12.93,25,0,Faible
+C000268,Skhirate-Témara,12.91,13,0,Faible
+C000704,Kénitra,12.9,31,0,Faible
+C001160,Rabat,12.88,38,0,Faible
+C000709,Kénitra,12.86,27,4,Faible
+C001807,Skhirate-Témara,12.86,22,0,Faible
+C000624,Salé,12.86,22,0,Faible
+C001444,Rabat,12.86,13,0,Faible
+C001543,Sidi Slimane,12.84,20,0,Faible
+C000419,Rabat,12.82,14,0,Faible
+C001394,Kénitra,12.82,25,0,Faible
+C000509,Kénitra,12.82,19,0,Faible
+C000762,Kénitra,12.8,36,0,Faible
+C000897,Kénitra,12.79,38,0,Faible
+C001120,Salé,12.79,29,0,Faible
+C000469,Salé,12.79,16,0,Faible
+C001995,Sidi Kacem,12.76,32,0,Faible
+C002021,Kénitra,12.76,31,0,Faible
+C000597,Skhirate-Témara,12.75,10,0,Faible
+C000065,Kénitra,12.73,26,0,Faible
+C001185,Salé,12.71,12,0,Faible
+C001913,Khémisset,12.69,14,0,Faible
+C001420,Rabat,12.68,29,0,Faible
+C001973,Khémisset,12.67,31,0,Faible
+C001321,Sidi Kacem,12.67,14,0,Faible
+C000614,Salé,12.66,14,0,Faible
+C001983,Rabat,12.66,27,0,Faible
+C001465,Rabat,12.66,28,0,Faible
+C000149,Salé,12.65,32,0,Faible
+C001428,Kénitra,12.63,12,0,Faible
+C000361,Salé,12.62,24,0,Faible
+C000412,Kénitra,12.62,25,0,Faible
+C001011,Rabat,12.62,20,0,Faible
+C001538,Skhirate-Témara,12.61,15,0,Faible
+C000034,Kénitra,12.61,10,0,Faible
+C001216,Sidi Slimane,12.61,17,0,Faible
+C000334,Skhirate-Témara,12.6,35,0,Faible
+C001864,Sidi Kacem,12.59,12,0,Faible
+C000517,Skhirate-Témara,12.59,19,0,Faible
+C001558,Salé,12.57,11,0,Faible
+C000216,Sidi Slimane,12.57,18,0,Faible
+C000215,Sidi Kacem,12.54,14,0,Faible
+C001749,Skhirate-Témara,12.52,22,0,Faible
+C001862,Rabat,12.52,29,0,Faible
+C000510,Salé,12.49,20,0,Faible
+C000911,Skhirate-Témara,12.41,20,0,Faible
+C002011,Khémisset,12.38,10,0,Faible
+C002013,Skhirate-Témara,12.38,19,0,Faible
+C001992,Salé,12.37,25,0,Faible
+C000714,Rabat,12.36,10,0,Faible
+C000091,Khémisset,12.35,22,0,Faible
+C001136,Salé,12.33,33,0,Faible
+C001140,Rabat,12.33,21,0,Faible
+C000198,Rabat,12.27,37,0,Faible
+C000666,Salé,12.26,25,0,Faible
+C000836,Skhirate-Témara,12.25,29,0,Faible
+C001971,Salé,12.23,11,0,Faible
+C000228,Skhirate-Témara,12.2,18,0,Faible
+C000728,Rabat,12.2,16,0,Faible
+C000631,Salé,12.18,20,0,Faible
+C001923,Rabat,12.18,15,0,Faible
+C000222,Rabat,12.18,11,0,Faible
+C000966,Sidi Slimane,12.17,16,0,Faible
+C000521,Salé,12.14,12,0,Faible
+C000999,Khémisset,12.14,27,0,Faible
+C000033,Kénitra,12.14,11,0,Faible
+C000169,Salé,12.13,20,0,Faible
+C001436,Skhirate-Témara,12.04,33,0,Faible
+C000723,Skhirate-Témara,12.04,16,0,Faible
+C000070,Kénitra,12.04,20,0,Faible
+C000040,Rabat,12.04,18,0,Faible
+C001908,Salé,12.03,17,0,Faible
+C001716,Salé,12.03,17,0,Faible
+C000185,Rabat,11.98,19,0,Faible
+C001951,Sidi Kacem,11.96,18,0,Faible
+C001422,Sidi Kacem,11.95,27,0,Faible
+C000461,Salé,11.94,39,0,Faible
+C000257,Rabat,11.94,29,0,Faible
+C001782,Rabat,11.91,16,0,Faible
+C001640,Kénitra,11.89,27,0,Faible
+C000973,Rabat,11.88,14,0,Faible
+C000922,Rabat,11.87,17,0,Faible
+C001093,Salé,11.85,22,0,Faible
+C001917,Kénitra,11.84,12,0,Faible
+C001565,Sidi Slimane,11.84,14,0,Faible
+C000871,Sidi Slimane,11.83,10,0,Faible
+C000191,Sidi Kacem,11.79,13,0,Faible
+C000902,Skhirate-Témara,11.79,11,0,Faible
+C000924,Salé,11.78,15,0,Faible
+C001587,Salé,11.77,19,0,Faible
+C001563,Kénitra,11.77,29,0,Faible
+C000821,Rabat,11.74,15,0,Faible
+C000180,Sidi Slimane,11.73,21,0,Faible
+C000943,Kénitra,11.7,16,0,Faible
+C001307,Sidi Kacem,11.67,32,0,Faible
+C000264,Rabat,11.65,18,0,Faible
+C001988,Rabat,11.63,37,0,Faible
+C001966,Kénitra,11.6,32,0,Faible
+C001226,Rabat,11.57,32,0,Faible
+C000349,Kénitra,11.57,24,0,Faible
+C000890,Kénitra,11.56,10,0,Faible
+C000837,Khémisset,11.53,17,0,Faible
+C001986,Kénitra,11.48,13,0,Faible
+C000660,Salé,11.47,33,0,Faible
+C000972,Salé,11.43,33,0,Faible
+C001320,Kénitra,11.42,19,0,Faible
+C001763,Kénitra,11.39,13,0,Faible
+C000672,Rabat,11.34,11,0,Faible
+C001463,Salé,11.31,28,0,Faible
+C001954,Skhirate-Témara,11.31,10,0,Faible
+C000364,Khémisset,11.3,28,0,Faible
+C001279,Salé,11.3,35,0,Faible
+C001078,Skhirate-Témara,11.29,22,0,Faible
+C001694,Rabat,11.25,13,0,Faible
+C000869,Salé,11.23,30,0,Faible
+C000863,Sidi Kacem,11.23,14,0,Faible
+C001993,Kénitra,11.22,26,0,Faible
+C000851,Rabat,11.22,22,0,Faible
+C001549,Sidi Kacem,11.19,17,0,Faible
+C000172,Sidi Kacem,11.17,28,0,Faible
+C000267,Kénitra,11.17,35,0,Faible
+C000796,Rabat,11.13,14,0,Faible
+C001515,Kénitra,11.05,11,0,Faible
+C000460,Kénitra,11.04,32,0,Faible
+C001810,Skhirate-Témara,11.04,21,0,Faible
+C001057,Sidi Kacem,11.0,20,0,Faible
+C000135,Rabat,10.96,18,0,Faible
+C000161,Rabat,10.94,12,0,Faible
+C000421,Skhirate-Témara,10.91,17,0,Faible
+C001025,Kénitra,10.91,33,0,Faible
+C001000,Salé,10.9,16,0,Faible
+C001031,Skhirate-Témara,10.84,10,0,Faible
+C001223,Salé,10.83,13,0,Faible
+C001828,Salé,10.83,36,0,Faible
+C000639,Rabat,10.82,32,0,Faible
+C001214,Salé,10.81,37,0,Faible
+C001670,Rabat,10.81,14,0,Faible
+C001924,Rabat,10.78,21,0,Faible
+C001252,Rabat,10.75,31,0,Faible
+C001005,Salé,10.73,35,0,Faible
+C001969,Kénitra,10.73,23,0,Faible
+C000031,Kénitra,10.73,15,0,Faible
+C001323,Skhirate-Témara,10.72,15,0,Faible
+C001440,Kénitra,10.71,31,0,Faible
+C001426,Skhirate-Témara,10.62,14,0,Faible
+C000008,Rabat,10.56,18,0,Faible
+C001295,Salé,10.53,28,0,Faible
+C001879,Kénitra,10.52,14,0,Faible
+C001806,Salé,10.5,28,0,Faible
+C001537,Salé,10.45,13,0,Faible
+C000047,Rabat,10.45,16,0,Faible
+C000734,Rabat,10.45,21,0,Faible
+C001427,Skhirate-Témara,10.41,37,0,Faible
+C001379,Salé,10.33,12,0,Faible
+C001755,Kénitra,10.33,11,0,Faible
+C000501,Salé,10.31,10,0,Faible
+C000954,Sidi Kacem,10.3,29,0,Faible
+C001179,Khémisset,10.27,22,0,Faible
+C001889,Skhirate-Témara,10.26,27,0,Faible
+C000875,Sidi Kacem,10.25,26,0,Faible
+C000167,Rabat,10.22,18,0,Faible
+C000819,Rabat,10.22,16,0,Faible
+C001630,Rabat,10.21,10,0,Faible
+C001153,Kénitra,10.17,18,0,Faible
+C000558,Kénitra,10.16,10,0,Faible
+C001783,Kénitra,10.15,28,0,Faible
+C000362,Kénitra,10.14,32,0,Faible
+C001329,Kénitra,10.11,24,0,Faible
+C001168,Salé,10.11,13,0,Faible
+C000608,Salé,10.08,25,0,Faible
+C001484,Salé,10.06,15,0,Faible
+C001756,Kénitra,9.99,18,0,Faible
+C000829,Rabat,9.91,29,0,Faible
+C001294,Rabat,9.9,35,0,Faible
+C001550,Kénitra,9.89,21,0,Faible
+C001489,Kénitra,9.81,17,0,Faible
+C000655,Salé,9.81,14,0,Faible
+C001717,Rabat,9.75,11,0,Faible
+C000094,Kénitra,9.74,14,0,Faible
+C001129,Sidi Kacem,9.73,34,0,Faible
+C000492,Rabat,9.72,13,0,Faible
+C001732,Rabat,9.66,12,0,Faible
+C000653,Rabat,9.66,24,0,Faible
+C000856,Salé,9.61,18,0,Faible
+C001634,Kénitra,9.58,33,0,Faible
+C001598,Rabat,9.57,33,0,Faible
+C002025,Salé,9.57,11,0,Faible
+C001876,Rabat,9.55,29,0,Faible
+C001711,Kénitra,9.54,28,3,Faible
+C000455,Salé,9.53,23,0,Faible
+C001524,Skhirate-Témara,9.53,10,0,Faible
+C001002,Salé,9.51,29,0,Faible
+C000304,Kénitra,9.51,12,0,Faible
+C000658,Sidi Slimane,9.48,20,0,Faible
+C001414,Salé,9.46,12,0,Faible
+C001124,Salé,9.46,14,0,Faible
+C000838,Skhirate-Témara,9.44,10,0,Faible
+C000683,Rabat,9.42,39,0,Faible
+C001313,Sidi Kacem,9.42,15,0,Faible
+C000325,Sidi Kacem,9.39,12,0,Faible
+C000439,Salé,9.34,10,0,Faible
+C001013,Salé,9.32,10,0,Faible
+C001593,Rabat,9.3,31,0,Faible
+C000249,Kénitra,9.26,17,0,Faible
+C001948,Kénitra,9.19,17,0,Faible
+C000642,Skhirate-Témara,9.19,14,0,Faible
+C000720,Sidi Kacem,9.17,13,0,Faible
+C000702,Kénitra,9.1,13,0,Faible
+C001376,Salé,9.05,18,0,Faible
+C001674,Salé,9.03,19,0,Faible
+C001981,Salé,9.0,14,0,Faible
+C001813,Rabat,9.0,12,0,Faible
+C000326,Kénitra,8.97,12,0,Faible
+C001508,Salé,8.94,31,0,Faible
+C001737,Sidi Kacem,8.88,13,0,Faible
+C000845,Kénitra,8.81,20,0,Faible
+C001642,Sidi Slimane,8.76,28,0,Faible
+C001220,Skhirate-Témara,8.75,17,0,Faible
+C000106,Kénitra,8.74,13,0,Faible
+C001712,Rabat,8.71,12,0,Faible
+C000200,Skhirate-Témara,8.7,10,0,Faible
+C000086,Kénitra,8.67,29,0,Faible
+C001219,Kénitra,8.62,17,0,Faible
+C001302,Sidi Slimane,8.61,29,0,Faible
+C000668,Khémisset,8.61,30,0,Faible
+C001687,Salé,8.57,21,0,Faible
+C000976,Kénitra,8.54,15,0,Faible
+C000983,Skhirate-Témara,8.54,18,0,Faible
+C001888,Sidi Slimane,8.38,14,0,Faible
+C001677,Khémisset,8.32,10,0,Faible
+C000848,Kénitra,8.31,18,1,Faible
+C001757,Khémisset,8.28,25,0,Faible
+C000232,Rabat,8.26,12,0,Faible
+C000494,Khémisset,8.19,11,0,Faible
+C000835,Khémisset,8.05,12,0,Faible
+C000338,Sidi Slimane,8.04,11,0,Faible
+C001256,Kénitra,8.03,13,0,Faible
+C000120,Rabat,8.03,12,0,Faible
+C001478,Skhirate-Témara,8.02,13,0,Faible
+C001787,Sidi Slimane,7.93,10,0,Faible
+C000496,Salé,7.91,14,0,Faible
+C000320,Skhirate-Témara,7.9,14,0,Faible
+C001418,Skhirate-Témara,7.89,16,0,Faible
+C000982,Skhirate-Témara,7.87,26,0,Faible
+C000251,Kénitra,7.85,19,0,Faible
+C001574,Sidi Kacem,7.84,13,0,Faible
+C001105,Salé,7.76,20,0,Faible
+C001874,Salé,7.73,13,0,Faible
+C001227,Rabat,7.71,12,0,Faible
+C000043,Rabat,7.7,16,0,Faible
+C001033,Khémisset,7.7,12,0,Faible
+C000699,Rabat,7.55,12,0,Faible
+C001322,Salé,7.43,11,0,Faible
+C001500,Rabat,7.31,28,0,Faible
+C000951,Skhirate-Témara,7.24,11,0,Faible
+C001902,Skhirate-Témara,7.22,30,0,Faible
+C001643,Rabat,7.14,20,0,Faible
+C001887,Rabat,7.08,18,0,Faible
+C001260,Rabat,7.05,19,0,Faible
+C001881,Rabat,6.97,21,0,Faible
+C001561,Salé,6.93,23,0,Faible
+C001978,Salé,6.91,32,0,Faible
+C001362,Sidi Slimane,6.89,16,0,Faible
+C002005,Rabat,6.89,39,0,Faible
+C001424,Sidi Kacem,6.88,29,0,Faible
+C000791,Skhirate-Témara,6.87,20,0,Faible
+C001854,Salé,6.87,12,0,Faible
+C000356,Khémisset,6.87,16,0,Faible
+C000454,Salé,6.87,14,0,Faible
+C001065,Salé,6.71,32,0,Faible
+C000482,Rabat,6.69,13,0,Faible
+C000014,Salé,6.62,11,0,Faible
+C001943,Skhirate-Témara,6.53,11,0,Faible
+C001816,Khémisset,6.42,15,0,Faible
+C001776,Rabat,6.39,14,0,Faible
+C001462,Sidi Slimane,6.33,10,0,Faible
+C001964,Salé,6.3,11,0,Faible
+C000975,Rabat,5.89,11,0,Faible
+C001355,Kénitra,5.89,14,0,Faible
+C000802,Rabat,5.72,10,0,Faible
+C000895,Rabat,5.27,14,0,Faible
+C001326,Sidi Slimane,5.23,13,0,Faible
+C001455,Skhirate-Témara,5.2,14,0,Faible
+C000989,Salé,5.15,16,0,Faible
+C000522,Skhirate-Témara,5.02,15,0,Faible

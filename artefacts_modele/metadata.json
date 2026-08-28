@@ -1,0 +1,33 @@
+{
+  "modele": "XGBoost",
+  "features_clf": [
+    "Consommation",
+    "MontantFacture",
+    "Conso_Precedente",
+    "Conso_Moyenne_Client",
+    "Taux_Evolution",
+    "Ecart_Moyenne_Client",
+    "Annee",
+    "Mois_num",
+    "Trimestre",
+    "Is_Ete",
+    "Is_Hiver",
+    "Is_Ramadan",
+    "Is_Aid",
+    "TypeService_enc",
+    "TypeClient_enc",
+    "Province_enc",
+    "StatutPaiement_enc"
+  ],
+  "poids_risk_score": {
+    "proba": 0.5,
+    "anomalie": 0.3,
+    "historique": 0.2
+  },
+  "seuils_priorite": {
+    "Critique": 75,
+    "Eleve": 50,
+    "Modere": 25
+  },
+  "random_state": 42
+}
