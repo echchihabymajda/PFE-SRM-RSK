@@ -5,3 +5,7 @@ venv/
 env/
 *.pyc
 *.log
+
+dataset_srm_enrichi.csv
+dataset_srm_nettoye.csv
+dataset_srm_realistic.xlsx
