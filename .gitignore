@@ -9,3 +9,6 @@ env/
 dataset_srm_enrichi.csv
 dataset_srm_nettoye.csv
 dataset_srm_realistic.xlsx
+
+.ipynb_checkpoints/
+anaconda_projects/
